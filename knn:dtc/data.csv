@@ -1,0 +1,689 @@
+id,name,platforms,original_price(£),discounted_price(£),discount(%),product_type,publisher,rel_date,developer,genre
+414,Chess,['PS4'],7.39,1.84,-75,FULL_GAME,Sabec,2020-07-30,Sabec,Card & Board
+530,Spencer,['PS4'],5.79,2.31,-60,FULL_GAME,EntwicklerX,2021-04-09,EntwicklerX,Platformer
+1,Table Tennis,['PS4'],7.99,1.99,-75,FULL_GAME,Sabec,2020-08-27,Sabec,"Sports, Table Tennis"
+2,Rainswept,['PS4'],7.99,4.39,-45,FULL_GAME,2Awesome Studio,2020-07-21,Frostwood Interactive,Adventure
+3,Hidden Through Time,['PS4'],6.49,3.24,-50,FULL_GAME,Rogueside,2020-03-12,Rogueside,Puzzle
+4,The Warriors,['PS4'],11.99,7.19,-40,FULL_GAME,Rockstar Games,2016-07-05,Rockstar Toronto,"Action-Adventure, Beat 'em up"
+5,Sniper Elite VR,['PS4'],24.99,12.49,-50,FULL_GAME,Rebellion,2021-07-08,Rebellion,First Person Shooter
+6,Faraday Protocol,['PS4'],19.99,7.99,-60,FULL_GAME,Deck13 Interactive,2021-08-12,Red Koi Box,Adventure
+7,Rusty Spout Rescue Adventure,['PS4'],5.79,3.47,-40,FULL_GAME,7 Raven Studios,2020-11-27,7 Raven Studios,Puzzle
+8,Deadlight: Director's Cut,['PS4'],12.99,2.59,-80,FULL_GAME,Deep Silver,2016-06-21,Tequila Works,Platformer
+9,Bomber Crew,['PS4'],15.99,3.19,-80,FULL_GAME,Curve Games,2018-07-10,Runner Duck Games,"Simulation, Management"
+10,Blind Men,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2020-04-14,Man-Eater Games,Visual Novel
+11,Alien Shooter,['PS4'],6.49,2.59,-60,FULL_GAME,8Floor,2016-03-08,Sigma Team,Shoot 'em up
+12,KUUKIYOMI 3: Consider It More and More!! - Father to Son,['PS4'],3.69,1.84,-50,FULL_GAME,G-MODE,2021-09-03,G-MODE,Simulation
+13,Timberman VS,['PS4'],1.69,0.16,-90,FULL_GAME,Forever Entertainment,2020-09-04,Digital Melody,Party
+14,Bus Driver Simulator,['PS4'],15.99,4.79,-70,FULL_GAME,United Independent Entertainment,2020-11-03,Cypronia,Simulation
+15,Ironcast,['PS4'],9.99,1.99,-80,FULL_GAME,Ripstone,2016-03-02,Dreadbit,Puzzle
+16,NeonHAT,['PS4'],11.99,5.75,-52,FULL_GAME,Gammera Nest,2021-08-04,Entalto Studios,Arcade Racing
+17,Hex Tunnel Touch,['PS4'],3.99,0.79,-80,FULL_GAME,Owlgorithm,2018-05-01,Owlgorithm,Action
+18,Murder House,['PS4'],9.49,7.11,-25,FULL_GAME,Puppet Combo,2021-10-14,Puppet Combo,Adventure
+19,PAW Patrol The Movie: Adventure City Calls,['PS4'],34.99,20.99,-40,FULL_GAME,Outright Games,2021-08-13,Drakhar Studio,Action-Adventure
+20,FORM,['PS4'],11.99,5.99,-50,FULL_GAME,Charm Games,2020-04-07,Charm Games,Puzzle
+21,Gearshifters,['PS4'],19.99,9.99,-50,FULL_GAME,"Numskull Games, Toybox",2021-09-30,Red Phantom Games,"Automobile, Arcade Racing, Vehicular Combat"
+23,Flowers Are Dead,['PS4'],18.99,15.19,-20,FULL_GAME,Sony Interactive Entertainment,2019-09-05,HALCYON Palace,Adventure
+24,Dick Wilde 2,['PS4'],15.99,3.19,-80,FULL_GAME,PlayStack,2019-02-19,Bolvërk Games,"First Person Shooter, On Rails"
+25,Beholder 2,['PS4'],11.99,2.39,-80,FULL_GAME,Curve Games,2019-10-22,Warm Lamp Games,"Simulation, Management"
+26,KURSK,['PS4'],15.99,1.59,-90,FULL_GAME,Forever Entertainment,2021-09-03,"Storm Trident, Jujubee",Adventure
+27,PGA TOUR 2K21,['PS4'],49.99,12.49,-75,FULL_GAME,2K Games,2020-08-21,HB Studios,"Sports, Golf"
+28,City of Brass,['PS4'],15.99,3.19,-80,FULL_GAME,Uppercut Games,2018-05-04,Uppercut Games,Roguelite
+29,Super Box Land Demake,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2019-10-08,lightUP,Puzzle
+30,Sunless Skies: Sovereign Edition,['PS4'],18.99,11.39,-40,FULL_GAME,Failbetter Games,2021-05-19,Failbetter Games,"Roguelite, Role Playing, Management"
+31,Ether One,['PS4'],14.99,10.49,-30,FULL_GAME,"White Paper Games, SOEDESCO",2015-05-05,White Paper Games,Action-Adventure
+32,Mutant Year Zero: Road to Eden,['PS4'],28.99,11.59,-60,FULL_GAME,Funcom,2018-12-04,The Bearded Ladies,"Stealth, Strategy, Turn Based"
+33,Football Game,['PS4'],3.99,1.39,-65,GAME_BUNDLE,Ratalaika Games,2019-11-05,Cloak and Dagger Games,"Adventure, Point & Click"
+34,Shoppe Keep,['PS4'],9.99,2.99,-70,FULL_GAME,Excalibur Games,2017-09-19,Strangefire Studios,Management
+35,The Long Reach,['PS4'],12.99,2.59,-80,FULL_GAME,Merge Games,2018-03-13,Painted Black Games,"Adventure, Point & Click"
+36,Stikbold! A Dodgeball Adventure,['PS4'],7.99,3.99,-50,FULL_GAME,Curve Games,2016-04-05,Game Swing,"Sports, Dodgeball, Party"
+37,Transpose,['PS4'],14.99,3.74,-75,FULL_GAME,Secret Location,2018-11-06,Secret Location,Puzzle
+38,Ritual: Crown of Horns,['PS4'],15.99,3.19,-80,FULL_GAME,Feardemic,2020-02-28,Draw Distance,Shoot 'em up
+39,Bubble Shooter FX,['PS4'],3.99,1.59,-60,FULL_GAME,EntwicklerX,2021-09-24,EntwicklerX,Puzzle
+40,Genetic Disaster,['PS4'],14.99,4.49,-70,FULL_GAME,Drageus Games,2020-05-29,Team8 Studio,"Shoot 'em up, Party"
+41,Chickens On The Road,['PS4'],0.79,0.67,-15,FULL_GAME,RandomSpin Games,2020-12-01,RandomSpin Games,Action
+42,Saboteur SiO,['PS4'],7.39,5.91,-20,FULL_GAME,SimFabric,2021-02-12,SimFabric,Platformer
+43,Violetti Goottii,['PS4'],0.2,0.1,-50,FULL_GAME,The Voices Games,2021-05-31,The Voices Games,Platformer
+44,Mafia: Definitive Edition,['PS4'],34.99,12.24,-65,FULL_GAME,2K Games,2020-09-24,Hangar 13,"Open World, Third Person Shooter"
+45,Fury Unleashed,['PS4'],15.99,4.79,-70,FULL_GAME,Awesome Games Studio,2020-05-08,Awesome Games Studio,"Roguelite, Run & Gun"
+705,Tangle Tower,['PS4'],13.99,6.99,-50,FULL_GAME,SFB Games,2021-10-06,SFB Games,Adventure
+46,Rush VR,['PS4'],19.99,4.99,-75,FULL_GAME,Nextgen Reality,2018-12-04,The Binary Mill,"Simulation Racing, Aerial"
+47,Tiny Hands Adventure,['PS4'],6.49,0.64,-90,FULL_GAME,Forever Entertainment,2021-03-05,Storm Trident,Platformer
+48,Sparkle 2 EVO,['PS4'],3.99,0.39,-90,FULL_GAME,Forever Entertainment,2021-05-20,Forever Entertainment,Action
+49,Medieval Defenders,['PS4'],5.79,2.31,-60,FULL_GAME,8Floor,2017-06-27,Creobit,Tower Defence
+50,Urban Trial Tricky Deluxe Edition,['PS4'],15.99,11.19,-30,FULL_GAME,Tate Multimedia,2021-07-22,Tate Multimedia,"Automobile, Sports, Motocross"
+51,Boxed In,['PS4'],4.99,3.49,-30,FULL_GAME,Red Chain Games,2021-05-27,Red Chain Games,Puzzle
+52,Dawn of Fear,['PS4'],11.99,4.19,-65,FULL_GAME,Good Game Publishing,2020-02-03,Brok3nsite,Survival Horror
+53,"I, Zombie",['PS4'],3.69,0.92,-75,FULL_GAME,Awesome Games Studio,2016-11-24,Awesome Games Studio,Strategy
+54,Othercide,['PS4'],24.99,7.49,-70,GAME_BUNDLE,Focus Entertainment,2020-07-28,Lightbulb Crew,"Strategy, Turn Based"
+55,Megaton Rainfall,['PS4'],12.99,4.8,-63,FULL_GAME,Pentadimensional Games,2017-10-17,Pentadimensional Games,"Open World, First Person Shooter"
+56,Narcos: Rise of the Cartels,['PS4'],24.99,3.74,-85,FULL_GAME,Curve Games,2019-11-19,Kuju,"Strategy, Turn Based"
+57,Goetia,['PS4'],7.99,0.79,-90,FULL_GAME,Forever Entertainment,2020-12-17,Sushee,"Adventure, Point & Click"
+58,The Escapists 2,['PS4'],19.99,4.99,-75,FULL_GAME,Team17 Software,2017-08-22,Mouldy Toof Studios,"Simulation, Strategy"
+59,Embr,['PS4'],15.99,6.39,-60,FULL_GAME,"Curve Games, H2 Interactive",2021-09-23,Muse Games,First Person Shooter
+60,Fight of Gods,['PS4'],12.99,10.39,-20,FULL_GAME,Digital Crafter,2020-07-16,Digital Crafter,Fighting
+61,Obliteracers,['PS4'],11.49,2.87,-75,FULL_GAME,Deck13 Interactive,2016-07-20,Space Dust Studios,"Automobile, Arcade Racing"
+62,The Walker,['PS4'],15.99,7.99,-50,FULL_GAME,Winking Skywalker Entertainment,2018-07-03,Haymaker Studios,First Person Shooter
+63,Fell Seal: Arbiter's Mark,['PS4'],19.99,5.99,-70,FULL_GAME,1C Entertainment,2019-04-30,6 Eyes Studio,"Role Playing, Strategy, Turn Based"
+64,Hyper Sentinel,['PS4'],5.79,1.44,-75,FULL_GAME,Huey Games,2018-05-08,Four5Six Pixel,Shoot 'em up
+65,Stranded Sails: Explorers of the Cursed Islands,['PS5'],19.99,7.99,-60,FULL_GAME,Merge Games,2019-10-17,Lemonbomb Entertainment,"Action-Adventure, Management"
+66,Game Dev Story,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2019-12-05,Kairosoft,Management
+67,Gorogoa,['PS4'],11.99,3.59,-70,FULL_GAME,Annapurna Interactive,2018-05-22,Buried Signal,"Puzzle, Adventure"
+68,Duck Souls+,['PS4'],3.99,1.39,-65,GAME_BUNDLE,Ratalaika Games,2020-03-24,Green Dinosaur Games,Platformer
+69,Hotshot Racing,['PS4'],15.99,3.19,-80,FULL_GAME,"Curve Games, H2 Interactive",2020-09-10,"Lucky Mountain Games, Sumo Digital","Automobile, Arcade Racing"
+70,Little Big Workshop,['PS4'],15.99,12.79,-20,FULL_GAME,HandyGames,2020-09-24,Mirage Game Studios,"Simulation, Management"
+71,Mutazione,['PS4'],14.99,8.24,-45,FULL_GAME,Akupara Games,2019-09-19,Die Gute Fabrik,Adventure
+72,Kona,"['PS4', 'PS5']",11.99,2.39,-80,FULL_GAME,Ravenscourt,2017-03-23,Parabole,"Adventure, Survival"
+73,Hob,['PS4'],15.99,7.99,-50,FULL_GAME,Runic Games,2017-09-26,Runic Games,Action-Adventure
+74,Borderlands 2 VR,['PS4'],39.99,19.99,-50,FULL_GAME,2K Games,2018-12-14,Gearbox Software,"Open World, First Person Shooter, Role Playing, Dungeon Crawler"
+75,Fast & Furious: Spy Racers Rise of SH1FT3R,"['PS4', 'PS5']",34.99,20.99,-40,FULL_GAME,Outright Games,2021-11-05,3DClouds.it,"Automobile, Arcade Racing"
+76,Cast of the Seven Godsends - Redux,['PS4'],5.79,1.15,-80,FULL_GAME,Merge Games,2016-07-19,Raven Travel Studios,Platformer
+77,Rhythm 'n Bullets,['PS4'],7.99,3.99,-50,FULL_GAME,DB Creations,2021-07-22,DB Creations,Shoot 'em up
+78,Swamp Defense 2,['PS4'],3.99,1.59,-60,FULL_GAME,EntwicklerX,2021-09-10,EntwicklerX,Tower Defence
+79,SuperEpic: The Entertainment War,['PS4'],12.99,2.59,-80,FULL_GAME,"Numskull Games, PM Studios",2019-12-12,Undercoders,"Metroidvania, Platformer"
+80,Ash of Gods: Redemption,['PS4'],15.99,3.19,-80,FULL_GAME,"Deep Silver, Ravenscourt",2020-02-03,AurumDust Studio,"Role Playing, Strategy, Turn Based"
+81,Monster Blast,['PS4'],5.79,2.31,-60,FULL_GAME,EntwicklerX,2021-03-18,EntwicklerX,Shoot 'em up
+82,Golf With Your Friends,['PS4'],15.99,3.99,-75,FULL_GAME,Team17 Software,2020-05-19,Blacklight Interactive,"Sports, Golf, Party"
+83,Crossbow Crusade,['PS4'],3.99,2.19,-45,FULL_GAME,ChiliDog Interactive,2021-05-28,HugePixel,Run & Gun
+84,Peaky Blinders: Mastermind,['PS4'],19.99,2.99,-85,FULL_GAME,Curve Games,2020-08-20,Futurlab,"Stealth, Adventure, Strategy"
+85,GORSD,['PS4'],13.99,6.99,-50,FULL_GAME,Springloaded,2020-09-18,Springloaded,Action
+86,Tumblestone,['PS4'],24.99,3.74,-85,FULL_GAME,The Quantum Astrophysicists Guild,2016-07-26,The Quantum Astrophysicists Guild,Puzzle
+87,My Memory of Us,['PS4'],15.99,3.99,-75,FULL_GAME,IMGN.Pro,2018-10-09,Juggler Games,Adventure
+88,XPOSED,['PS4'],7.99,1.99,-75,FULL_GAME,Somequest,2016-12-14,Somequest,Action
+89,Drive on Moscow,['PS4'],7.99,3.91,-51,FULL_GAME,Slitherine Software,2018-04-20,Shenandoah Studio,Strategy
+90,Atelier Sophie: The Alchemist of the Mysterious Book DX,['PS4'],32.99,23.09,-30,FULL_GAME,KOEI TECMO,2021-04-22,Gust,"Role Playing, Turn Based"
+91,Murder Mystery Machine,['PS4'],15.99,9.59,-40,FULL_GAME,Microids,2021-08-25,Blazing Griffin,Adventure
+92,THE KING OF FIGHTERS 2002 UNLIMITED MATCH,['PS4'],12.99,5.19,-60,FULL_GAME,"SNK, Pix'n Love",2021-02-08,SNK,Fighting
+93,Snooker Nation Championship,['PS5'],9.79,3.91,-60,FULL_GAME,Cherry Pop Games,2019-04-16,Cherry Pop Games,"Sports, Cue Sports"
+94,Catlateral Damage,['PS4'],9.49,4.74,-50,FULL_GAME,Fire Hose Games,2016-03-22,Manekoware,Action
+95,Order of Battle: World War II,['PS4'],15.99,11.83,-26,FULL_GAME,Slitherine Software,2021-08-19,The Artistocrats,"Strategy, Turn Based"
+96,Tandem: A Tale of Shadows,['PS4'],24.99,12.49,-50,FULL_GAME,"Hatinh Interactive, Beep Japan",2021-10-21,Monochrome Paris,"Puzzle, Platformer"
+97,ONE PIECE: PIRATE WARRIORS 4,['PS4'],49.99,9.99,-80,FULL_GAME,Bandai Namco Entertainment,2020-03-27,KOEI TECMO,Hack & Slash
+98,Grand Prix Story,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-10-15,Kairosoft,"Automobile, Arcade Racing"
+99,Sword Art Online: Lost Song,['PS4'],44.99,8.99,-80,FULL_GAME,Bandai Namco Entertainment,2015-11-17,ArtDink,"Action-RPG, Role Playing"
+100,Open Country,['PS4'],12.99,6.49,-50,FULL_GAME,505 Games,2021-06-10,Fun Labs,"Open World, Third Person Shooter"
+101,Goat Simulator,['PS4'],7.99,1.99,-75,FULL_GAME,Double Eleven,2015-08-12,Coffee Stain Studios,Open World
+102,Phoenix Wright: Ace Attorney Trilogy,['PS4'],26.99,13.49,-50,FULL_GAME,Capcom Entertainment,2019-04-09,Capcom Entertainment,"Collection, Visual Novel"
+103,Desert Child,['PS4'],8.99,3.14,-65,FULL_GAME,Akupara Games,2018-12-11,Oscar Brittain,Action
+104,Eternity: The Last Unicorn,['PS4'],15.99,3.99,-75,FULL_GAME,1C Entertainment,2019-03-05,Void Studios,"Action-RPG, Role Playing"
+105,Kholat,['PS4'],15.99,3.99,-75,FULL_GAME,IMAGINATION,2016-03-08,IMGN.Pro,Survival Horror
+106,Demon Gaze II,['PS4'],44.99,8.99,-80,FULL_GAME,NIS America,2017-11-14,Experience,"Role Playing, Turn Based, Dungeon Crawler"
+107,Lethal VR,['PS4'],11.99,2.39,-80,FULL_GAME,Team17 Software,2017-01-24,Three Fields Entertainment,"First Person Shooter, On Rails"
+108,Atelier Firis: The Alchemist and the Mysterious Journey DX,['PS4'],32.99,23.09,-30,FULL_GAME,KOEI TECMO,2021-04-22,Gust,"Role Playing, Turn Based"
+109,Root Letter,['PS4'],15.99,4.79,-70,FULL_GAME,PQube,2016-11-08,Kadokawa Games,Visual Novel
+110,KUUKIYOMI 2: Consider It More! - New Era,['PS4'],3.69,1.84,-50,FULL_GAME,G-MODE,2020-12-08,G-MODE,Simulation
+452,Super Dodgeball Beats,['PS4'],11.99,2.99,-75,FULL_GAME,PlayStack,2019-09-12,Finalboss Games,Music
+111,The Escapists: The Walking Dead,['PS4'],14.99,3.74,-75,FULL_GAME,Team17 Software,2016-02-16,Team17 Software,"Simulation, Strategy"
+112,Rise Eterna,['PS4'],15.99,1.59,-90,FULL_GAME,Forever Entertainment,2021-08-06,Makee,"Role Playing, Strategy, Turn Based"
+113,Romancing SaGa 2,['PS4'],19.99,5.99,-70,FULL_GAME,Square Enix,2017-12-15,ArtePiazza,"Role Playing, Turn Based"
+114,Psychonauts 2,['PS4'],49.99,24.99,-50,FULL_GAME,Xbox Game Studios,2021-08-24,Double Fine,Action-Adventure
+115,Curse of the Dead Gods,['PS4'],15.99,6.39,-60,FULL_GAME,Focus Entertainment,2021-02-23,Passtech Games,"Roguelite, Dungeon Crawler"
+116,Little Misfortune,['PS4'],15.99,5.59,-65,FULL_GAME,Killmonday Games,2020-05-29,Killmonday Games,"Adventure, Point & Click"
+117,Treasure Rangers,['PS4'],15.99,3.19,-80,FULL_GAME,Relevo Videogames,2019-12-16,Relevo Videogames,Action-Adventure
+118,Saboteur!,['PS4'],3.69,2.95,-20,FULL_GAME,SimFabric,2020-01-31,Clive Townsend,Action-Adventure
+119,Manual Samuel,['PS4'],7.99,0.79,-90,FULL_GAME,Curve Games,2016-10-11,Perfectly ParaNormal,"Adventure, Simulation"
+120,Just Die Already,['PS4'],11.49,4.59,-60,FULL_GAME,Curve Games,2021-05-20,Double Moose,Action
+121,Memories of Mars,['PS4'],15.99,3.99,-75,FULL_GAME,505 Games,2020-03-12,Limbic Entertainment,"Open World, First Person Shooter, Survival, MMO"
+122,The Park,['PS4'],9.99,3.99,-60,FULL_GAME,Funcom,2016-05-03,Funcom,Adventure
+124,Seeds of Resilience,['PS4'],11.49,1.14,-90,FULL_GAME,Forever Entertainment,2020-12-18,"Goblinz Studio, Forever Entertainment","Simulation, Management"
+125,Candle: The Power of the Flame,['PS4'],15.99,3.19,-80,FULL_GAME,Merge Games,2018-07-24,Teku Studios,"Adventure, Point & Click"
+126,Gal*Gun 2,['PS4'],24.99,9.99,-60,FULL_GAME,PQube,2018-04-24,Inti CREATES,"First Person Shooter, On Rails"
+127,Gelly Break Deluxe,['PS4'],15.99,6.39,-60,FULL_GAME,ByteRockers Games,2021-08-12,ByteRockers Games,Platformer
+128,Grood,['PS4'],3.99,0.79,-80,FULL_GAME,Drageus Games,2020-10-23,CC_ARTS,Shoot 'em up
+129,Paradise Lost,['PS4'],11.99,4.79,-60,FULL_GAME,All In! Games,2021-03-24,PolyAmorous,Adventure
+130,Candleman,['PS4'],19.99,12.99,-35,FULL_GAME,Zodiac Interactive,2018-08-21,Spotlightor Interactive,Platformer
+131,My Universe - Cooking Star Restaurant,['PS4'],34.99,13.99,-60,FULL_GAME,Microids,2020-11-10,Old Skull Games,Simulation
+132,Rugby 20,['PS4'],24.99,7.49,-70,FULL_GAME,Nacon,2020-01-23,Eko Software,"Sports, Rugby"
+133,Air Hockey,['PS4'],7.99,1.99,-75,FULL_GAME,Sabec,2020-08-20,Sabec,Sports
+134,Mega Mall Story,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-05-14,Kairosoft,"Simulation, Management"
+135,Lornsword Winter Chronicle,['PS4'],15.99,5.59,-65,FULL_GAME,Tower Five,2019-10-23,Tower Five,"Strategy, Real Time"
+136,Metamorphosis,['PS4'],19.99,5.99,-70,FULL_GAME,All In! Games,2020-08-12,Ovid Works,Adventure
+137,Drone Striker,['PS4'],7.99,3.99,-50,FULL_GAME,Winking Skywalker Entertainment,2018-10-16,User Joy,"First Person Shooter, On Rails"
+138,Kawaii Deathu Desu,['PS4'],2.89,1.44,-50,FULL_GAME,Top Hat Studios,2020-08-17,Pippin Games,Action
+139,Bullet Roulette,['PS4'],7.39,2.95,-60,FULL_GAME,Fibrum,2021-01-21,Fibrum,"First Person Shooter, Party"
+140,I Expect You To Die,['PS4'],19.99,11.99,-40,FULL_GAME,Schell Games,2016-12-13,Schell Games,Puzzle
+141,Vaporum,['PS4'],24.99,7.49,-70,FULL_GAME,Merge Games,2019-04-09,Fatbot Games,"Action-RPG, Role Playing, Dungeon Crawler"
+142,Amazing Discoveries In Outer Space,['PS4'],11.49,5.74,-50,FULL_GAME,Cosmic Picnic,2016-02-02,Cosmic Picnic,"Action-Adventure, Platformer"
+144,MY HERO ONE'S JUSTICE,['PS4'],54.99,7.69,-86,FULL_GAME,Bandai Namco Entertainment,2018-10-26,BYKING Studios,Fighting
+145,How to Survive 2,['PS4'],11.99,2.99,-75,FULL_GAME,505 Games,2017-02-06,Eko Software,"Open World, Survival, Dungeon Crawler"
+146,Mosaic,['PS4'],15.99,6.39,-60,FULL_GAME,Raw Fury,2020-02-11,Krillbite Studio,Adventure
+147,Stealth Inc 2: A Game of Clones,['PS4'],11.99,1.19,-90,GAME_BUNDLE,Curve Games,2015-04-07,Curve Games,"Puzzle, Platformer"
+148,Dadish 2,['PS4'],7.39,5.17,-30,FULL_GAME,Thomas K. Young,2021-09-27,Thomas K. Young,Platformer
+149,Midnight Deluxe,['PS4'],3.99,1.19,-70,GAME_BUNDLE,Ratalaika Games,2018-03-06,Petite Games,Platformer
+150,Valkyria Chronicles 4,['PS4'],24.99,9.99,-60,FULL_GAME,SEGA,2018-09-25,Media.Vision,"Role Playing, Strategy, Turn Based"
+151,Prison Boss VR,['PS4'],15.99,7.99,-50,FULL_GAME,Trebuchet Studio,2018-12-04,Trebuchet Studio,Simulation
+152,Devious Dungeon,['PS4'],6.49,1.29,-80,GAME_BUNDLE,Ratalaika Games,2018-04-24,Ravenous Games,"Roguelite, Platformer, Dungeon Crawler"
+153,Pankapu,['PS4'],9.49,2.37,-75,FULL_GAME,Plug In Digital,2017-09-19,Too Kind Studio,Platformer
+154,Lord Of The Click,['PS4'],3.69,2.58,-30,FULL_GAME,Victory Road,2020-10-23,HugePixel,Action
+155,Conan Chop Chop,['PS4'],15.99,7.99,-50,FULL_GAME,Funcom,2022-02-08,Mighty Kingdom,"Roguelite, Action-RPG, Role Playing"
+156,Radio Squid,['PS4'],3.99,1.19,-70,FULL_GAME,Ratalaika Games,2020-06-19,Pixelteriyaki,Action
+157,Mochi Mochi Boy,['PS4'],3.99,1.19,-70,GAME_BUNDLE,Ratalaika Games,2019-07-16,Pixelteriyaki,Puzzle
+158,Peggle 2,['PS4'],9.99,1.99,-80,FULL_GAME,Electronic Arts,2014-10-14,PopCap Games,Puzzle
+159,Crypt of the Serpent King,['PS4'],1.69,0.84,-50,FULL_GAME,Rendercode Games,2018-02-27,Rendercode Games,"Action-RPG, Role Playing, Dungeon Crawler"
+161,Eagle Island Twist,['PS4'],9.99,4.99,-50,FULL_GAME,Screenwave Media,2021-05-27,Pixelnicks,Platformer
+162,Reborn: A Samurai Awakens,['PS4'],11.99,5.99,-50,FULL_GAME,Circle Entertainment,2019-11-06,Geronimo Interactive,Action-Adventure
+163,Drawngeon: Dungeons of Ink and Paper,['PS4'],3.99,0.79,-80,FULL_GAME,Drageus Games,2020-11-13,DarkDes Labs,"Role Playing, Turn Based, Dungeon Crawler"
+164,Green Hell,['PS4'],19.99,13.99,-30,FULL_GAME,Creepy Jar,2021-06-09,Creepy Jar,Survival
+165,Rune Lord,['PS4'],5.79,4.05,-30,FULL_GAME,Victory Road,2020-05-20,"Adept Studios, Alawar Entertainment",Puzzle
+166,Golf Zero,['PS4'],3.99,1.39,-65,FULL_GAME,Ratalaika Games,2020-09-08,"Brad Erkkila, Colin Lane",Platformer
+167,Thunder Paw,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2020-03-17,SergioPoverony,Platformer
+168,Coaster,['PS4'],4.99,2.49,-50,FULL_GAME,Binarie Digital Media,2020-06-22,Binarie Digital Media,Simulation
+169,EARTH DEFENSE FORCE: IRON RAIN,['PS4'],49.99,12.49,-75,FULL_GAME,D3Publisher,2019-04-11,Yuke's,Third Person Shooter
+170,Paper Dolls,['PS4'],13.99,6.99,-50,FULL_GAME,Winking Skywalker Entertainment,2018-10-30,Beijing Litchi Culture Media,Adventure
+171,Iron Snout,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2019-04-16,SnoutUp,Beat 'em up
+172,Submerged,['PS4'],14.99,2.99,-80,FULL_GAME,Screen Australia,2015-08-04,Uppercut Games,Adventure
+173,Train Station Renovation,['PS4'],11.99,5.99,-50,PREMIUM_EDITION,Ultimate Games,2021-10-01,Live Motion Games,Simulation
+174,Farm Frenzy: Refreshed,['PS4'],7.99,5.59,-30,FULL_GAME,ChiliDog Interactive,2021-06-11,"Alawar Entertainment, GameOn Production","Simulation, Management"
+175,Trine 4: The Nightmare Prince,['PS4'],24.99,4.99,-80,FULL_GAME,Modus Games,2019-10-08,Frozenbyte,"Puzzle, Platformer"
+176,Milo's Quest,['PS4'],3.99,1.19,-70,GAME_BUNDLE,Ratalaika Games,2020-01-28,lightUP,Action-Adventure
+177,Attack of the Toy Tanks,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2019-06-25,Petite Games,"Automobile, Vehicular Combat"
+178,Quest of Dungeons,['PS4'],7.39,2.43,-67,FULL_GAME,Upfall Studios,2017-01-17,Upfall Studios,"Roguelite, Role Playing, Turn Based, Dungeon Crawler"
+179,Zero Zero Zero Zero,['PS4'],3.99,1.19,-70,GAME_BUNDLE,Ratalaika Games,2020-02-04,Alvarop Games,Platformer
+180,Moons of Madness,['PS4'],24.99,12.49,-50,FULL_GAME,Funcom,2020-03-24,Rock Pocket Games,Survival Horror
+181,Mars Alive,['PS4'],13.99,6.99,-50,FULL_GAME,Winking Entertainment,2019-06-18,Winking Entertainment,Survival
+182,Antigraviator,['PS4'],15.99,5.43,-66,FULL_GAME,Iceberg Interactive,2019-10-29,Cybernetic Walrus,Arcade Racing
+183,Tin & Kuna,['PS4'],19.99,4.99,-75,FULL_GAME,Aksys Games,2020-09-10,Black River Studios,"Puzzle, Platformer"
+184,BELOW,['PS4'],19.99,4.99,-75,FULL_GAME,Capy Games,2020-04-07,Capy Games,"Survival, Dungeon Crawler"
+185,DiRT Rally 2.0,['PS4'],24.99,6.24,-75,FULL_GAME,Codemasters,2019-02-26,Codemasters,"Automobile, Simulation Racing"
+186,Xeno Crisis,['PS4'],14.99,7.49,-50,FULL_GAME,Bitmap Bureau,2019-10-28,Bitmap Bureau,Shoot 'em up
+187,Dracula's Legacy,['PS4'],15.99,11.19,-30,FULL_GAME,Joindots,2019-03-28,Jetdogs Studios,"Adventure, Point & Click"
+188,For The King,['PS4'],19.99,5.99,-70,FULL_GAME,"Curve Games, Merge Games",2019-05-07,IronOak Games,"Role Playing, Turn Based, Card & Board"
+189,Dimension Drive,['PS4'],9.99,4.99,-50,FULL_GAME,LBC Games,2018-09-04,2Awesome Studio,Shoot 'em up
+190,PONG Quest,['PS4'],14.99,11.99,-20,FULL_GAME,Atari,2020-05-29,Chequered Ink,"Role Playing, Dungeon Crawler"
+191,Guns'n'Stories: Bulletproof VR,['PS4'],7.99,3.99,-50,FULL_GAME,MiroWin,2018-12-07,MiroWin,First Person Shooter
+192,Nexomon: Extinction,['PS4'],15.99,7.99,-50,FULL_GAME,PQube,2020-08-28,VEWO Interactive,"Role Playing, Turn Based"
+194,NBA 2K Playgrounds 2,['PS4'],24.99,6.24,-75,FULL_GAME,2K Games,2018-10-16,Saber Interactive,"Sports, Basketball"
+195,Tales of Berseria,['PS4'],15.99,7.99,-50,FULL_GAME,Bandai Namco Entertainment,2017-01-24,Bandai Namco Entertainment,"Action-RPG, Role Playing"
+196,Tools Up!,['PS4'],15.99,6.39,-60,FULL_GAME,All In! Games,2019-12-03,The Knights of Unity,Action
+197,Sakura Wars,['PS4'],49.99,14.99,-70,FULL_GAME,SEGA,2020-04-28,SEGA,"Action-Adventure, Mech"
+198,13 Sentinels: Aegis Rim,['PS4'],49.99,32.49,-35,FULL_GAME,Atlus,2020-09-22,"Atlus, Vanillaware","Mech, Strategy, Turn Based"
+199,Override: Mech City Brawl,['PS4'],15.99,2.39,-85,FULL_GAME,Modus Games,2018-12-04,The Balance,"Fighting, Mech"
+200,Keep Talking and Nobody Explodes,['PS4'],11.99,5.99,-50,FULL_GAME,Steel Crate Games,2016-10-13,Steel Crate Games,Puzzle
+201,HardCube,['PS4'],4.99,1.99,-60,PREMIUM_EDITION,Big Way Games,2020-11-06,Big Way Games,Platformer
+202,Outer Wilds,['PS4'],18.99,11.39,-40,FULL_GAME,Annapurna Interactive,2019-10-15,Mobius Digital,"Open World, Action-Adventure"
+203,Balancelot,['PS4'],6.49,1.94,-70,FULL_GAME,Ratalaika Games,2021-01-19,"AnvilBird Interactive, Jestercraft",Action
+204,Rescue HQ - The Tycoon,['PS4'],24.99,18.74,-25,FULL_GAME,AeroSoft,2021-09-28,stillalive studios,Management
+205,FoxyLand 2,['PS4'],4.99,1.49,-70,GAME_BUNDLE,Ratalaika Games,2020-01-21,BUG-Studio,Platformer
+206,Plague Inc: Evolved,['PS4'],11.99,4.07,-66,FULL_GAME,Ndemic Creations,2016-05-31,Ndemic Creations,Strategy
+207,Pumped BMX +,['PS4'],7.99,1.59,-80,GAME_BUNDLE,Curve Games,2015-09-22,Yeah Us!,"Platformer, Sports, Cycling"
+208,Action Henk,['PS4'],11.99,1.19,-90,FULL_GAME,Curve Games,2016-03-08,RageSquid,Platformer
+209,Archaica: The Path Of Light,['PS4'],14.99,4.49,-70,FULL_GAME,Drageus Games,2020-04-24,"TwoMammoths, Drageus Games",Puzzle
+210,Extinction,['PS4'],24.99,3.74,-85,FULL_GAME,Modus Games,2018-04-10,Iron Galaxy Studios,Hack & Slash
+211,Back in 1995,['PS4'],7.99,3.99,-50,FULL_GAME,Ratalaika Games,2019-05-21,Throw the warped code out,Action Horror
+212,Unravel,['PS4'],14.99,3.74,-75,FULL_GAME,Electronic Arts,2016-02-09,Coldwood Interactive,"Puzzle, Platformer"
+213,10 Second Ninja X,['PS4'],7.99,0.79,-90,GAME_BUNDLE,Curve Games,2016-07-19,Four Circle Interactive,Platformer
+214,Newtonian Inversion,['PS4'],0.49,0.24,-50,FULL_GAME,The Voices Games,2021-03-31,The Voices Games,Platformer
+215,Oliver's Adventures in the Fairyland,['PS4'],5.79,4.05,-30,FULL_GAME,Victory Road,2019-12-11,Hoodoo Bear,Platformer
+216,Dungeon Village,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2019-12-05,Kairosoft,Management
+217,The Midnight Sanctuary,['PS4'],7.99,3.99,-50,FULL_GAME,UNTIES,2018-10-04,CAVYHOUSE,Visual Novel
+218,Let's Sing 2020,['PS4'],34.99,19.24,-45,FULL_GAME,Deep Silver,2020-05-28,Voxler,Music
+219,My Friend Peppa Pig,"['PS4', 'PS5']",34.99,24.49,-30,FULL_GAME,Outright Games,2021-10-22,Petoons Studio,Adventure
+220,Alpha Invasion,['PS4'],7.99,3.99,-50,FULL_GAME,Erik Games,2020-06-19,Erik Games,Adventure
+221,The Metronomicon: Slay the Dance Floor,['PS4'],16.99,4.24,-75,FULL_GAME,Kasedo Games,2017-08-29,Akupara Games,"Role Playing, Music"
+222,Banner of the Maid,['PS4'],13.99,6.99,-50,FULL_GAME,CE-Asia Hong Kong,2020-08-12,Azure Flame Studio,"Role Playing, Strategy, Turn Based"
+223,Conan Exiles,['PS4'],44.99,17.99,-60,FULL_GAME,Funcom,2018-05-08,Funcom,"Open World, Survival"
+224,Zombies ruined my day,['PS4'],3.29,1.64,-50,FULL_GAME,Rendercode Games,2020-10-27,Mancebo Games,Action
+225,Beast Quest,['PS4'],15.99,1.59,-90,FULL_GAME,Maximum Games,2018-03-13,Torus Games,"Action-RPG, Role Playing"
+226,The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition,"['PS4', 'PS5']",29.99,20.99,-30,FULL_GAME,"Plug In Digital, GS2 Games",2021-06-24,Artefacts Studio,"Role Playing, Strategy, Turn Based, Dungeon Crawler"
+227,Atomicrops,['PS4'],9.99,3.99,-60,FULL_GAME,Raw Fury,2020-05-28,Bird Bath Games,"Roguelite, Shoot 'em up"
+228,Neon Drive,['PS4'],7.99,3.19,-60,FULL_GAME,Fraoula,2017-08-08,Fraoula,"Automobile, Arcade Racing"
+229,ARK: Survival Evolved,['PS4'],24.99,8.24,-67,FULL_GAME,Wildcard Properties,2016-12-06,Studio Wildcard,"Open World, Survival"
+230,Suicide Guy: Sleepin' Deeply,['PS4'],4.99,0.99,-80,FULL_GAME,Chubby Pixel,2019-01-11,Fabio Ferrara,"Puzzle, Platformer"
+231,Draugen,['PS4'],15.99,6.39,-60,FULL_GAME,Red Thread Games,2020-02-21,Red Thread Games,Adventure
+232,A Knight's Quest,['PS4'],19.99,1.99,-90,FULL_GAME,Curve Games,2019-10-10,Sky9 Games,Action-Adventure
+233,VR Ping Pong,['PS4'],11.99,2.39,-80,FULL_GAME,Merge Games,2017-02-07,Reddoll,"Sports, Table Tennis"
+234,Sky Ride,['PS4'],14.99,10.49,-30,FULL_GAME,MUTAN,2017-02-15,MUTAN,Shoot 'em up
+235,VR Ping Pong Pro,['PS4'],19.99,3.99,-80,FULL_GAME,Merge Games,2019-11-12,One-O-One Games,"Sports, Table Tennis"
+236,SaGa Frontier Remastered,['PS4'],19.99,13.99,-30,FULL_GAME,Square Enix,2021-04-15,Square Enix,"Role Playing, Turn Based"
+237,Ord.,['PS4'],3.99,1.59,-60,FULL_GAME,Ratalaika Games,2020-11-03,"Mujo Games, Stuffed Wombat",Visual Novel
+239,Livelock,['PS4'],9.49,4.74,-50,FULL_GAME,Perfect World Entertainment,2016-08-30,Tuque Games,Shoot 'em up
+240,Jump Stars,['PS4'],7.99,0.79,-90,FULL_GAME,Curve Games,2017-06-06,Jamit Games,Action
+241,Volgarr the Viking,['PS4'],7.99,1.99,-75,GAME_BUNDLE,Crazy Viking Studios,2016-11-16,Crazy Viking Studios,Platformer
+242,God's Trigger,['PS4'],11.99,3.59,-70,FULL_GAME,Techland,2019-04-18,One More Level Games,Shoot 'em up
+244,Death Park,['PS4'],5.79,3.47,-40,FULL_GAME,EpiXR Games,2021-09-24,Euphoria Games,Stealth
+245,Ascendshaft and Endless Shaft,['PS4'],0.49,0.24,-50,FULL_GAME,The Voices Games,2021-03-03,The Voices Games,Action
+246,Toy Soldiers HD,['PS4'],24.99,12.49,-50,FULL_GAME,Accelerate Games,2021-10-21,Signal Studios,"Strategy, Turn Based"
+247,The Wardrobe,['PS4'],15.99,9.59,-40,PREMIUM_EDITION,MixedBag Games,2018-07-31,CINIC Games,"Adventure, Point & Click"
+248,Mighty No. 9,['PS4'],15.99,2.39,-85,GAME_BUNDLE,Deep Silver,2016-06-21,Comcept,Platformer
+249,The Deer God,['PS4'],7.99,2.79,-65,GAME_BUNDLE,Level 77,2017-04-25,Blowfish Studios,Platformer
+250,Revenant Saga,['PS4'],11.99,5.99,-50,FULL_GAME,KEMCO,2017-12-13,EXE-CREATE,"Role Playing, Turn Based"
+251,Heroine Anthem Zero Episode 1,['PS4'],9.99,4.99,-50,FULL_GAME,Vive Studios,2018-02-27,Winking Entertainment,"Action-RPG, Role Playing"
+252,Mom Hid My Game! 2,['PS4'],3.99,2.79,-30,FULL_GAME,Hap,2021-04-28,Hap,Puzzle
+253,M.A.C.E. Space Shooter,['PS4'],3.99,1.59,-60,FULL_GAME,EntwicklerX,2020-11-19,EntwicklerX,Shoot 'em up
+254,Glittering Sword,['PS4'],3.99,1.99,-50,FULL_GAME,ChiliDog Interactive,2021-02-05,HugePixel,Action-Adventure
+255,Kingdom: New Lands,['PS4'],11.99,2.39,-80,FULL_GAME,Raw Fury,2018-01-16,Fury Studios,Management
+256,My Time at Portia,['PS4'],24.99,6.24,-75,FULL_GAME,Team17 Software,2019-04-16,Pathea Games,"Role Playing, Management"
+257,Alekhine's Gun,['PS4'],15.99,1.59,-90,FULL_GAME,Maximum Games,2016-03-11,Maximum Games,"Third Person Shooter, Stealth"
+258,Red Dead Revolver,['PS4'],11.99,7.19,-40,FULL_GAME,Rockstar Games,2016-10-11,Rockstar San Diego,Third Person Shooter
+259,Thomas Was Alone,['PS4'],6.49,0.64,-90,FULL_GAME,Curve Games,2013-04-23,Curve Games,Platformer
+260,Arrog,['PS4'],2.49,0.99,-60,FULL_GAME,Nakana.io,2021-02-05,"Leap Game Studios, Hermanos Magia",Adventure
+261,Cake Bash,['PS4'],15.99,11.99,-25,FULL_GAME,Coatsink,2020-10-15,High Tea Frog,Party
+262,Fishing Sim World: Pro Tour,['PS4'],14.99,5.24,-65,FULL_GAME,Dovetail Games,2018-09-18,Dovetail Games,"Fishing, Sports"
+263,BLACKHOLE: Complete Edition,['PS4'],12.99,3.24,-75,FULL_GAME,1C Entertainment,2017-08-08,FiolaSoft Studio,"Puzzle, Platformer"
+265,Car Mechanic Simulator 2021,"['PS4', 'PS5']",24.99,18.74,-25,FULL_GAME,PlayWay,2021-08-12,Red Dot Games,Simulation
+266,West of Dead,['PS4'],15.99,4.79,-70,FULL_GAME,Raw Fury,2020-08-05,Upstream Arcade,Roguelite
+267,Lost Castle,['PS4'],7.99,3.19,-60,FULL_GAME,Another Indie,2019-09-19,Hunter Studios,"Action-RPG, Role Playing"
+268,Wargroove,['PS4'],15.49,6.19,-60,FULL_GAME,Chucklefish,2019-07-23,Chucklefish,"Strategy, Turn Based"
+269,Ion Driver,['PS4'],7.99,3.59,-55,FULL_GAME,Gammera Nest,2021-07-30,Gammera Nest,"Automobile, Arcade Racing"
+270,Bounty Battle,['PS4'],19.99,3.99,-80,FULL_GAME,Merge Games,2020-09-10,Dark Screen Games,Fighting
+271,36 Fragments of Midnight,['PS4'],2.49,0.74,-70,FULL_GAME,Ratalaika Games,2017-12-19,Petite Games,Platformer
+272,Lock's Quest,['PS4'],15.99,6.39,-60,FULL_GAME,THQ Nordic,2017-05-30,Digital Continue,"Strategy, Real Time"
+273,Stealth Inc: Ultimate Edition,['PS4'],9.99,0.99,-90,FULL_GAME,Curve Games,2014-03-18,Curve Games,"Puzzle, Platformer"
+274,Venture Towns,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-05-14,Kairosoft,"Simulation, Management"
+275,LA Cops,['PS4'],11.49,2.29,-80,FULL_GAME,Team17 Software,2015-04-21,Modern Dream,Shoot 'em up
+276,Skater XL,['PS4'],34.99,26.24,-25,FULL_GAME,Easy Day Studios,2020-07-28,Easy Day Studios,"Sports, Skateboarding"
+277,Massira,['PS4'],9.99,2.99,-70,FULL_GAME,Factoria Cultural Gestio,2019-09-16,Frost Monkey,Puzzle
+278,Dusk Diver,['PS4'],29.99,11.99,-60,FULL_GAME,PQube,2019-10-29,JFI Games,"Action-RPG, Role Playing, Hack & Slash"
+279,Ninjin: Clash of Carrots,['PS4'],7.99,0.79,-90,FULL_GAME,Modus Games,2018-09-04,Pocket Trap,"On Rails, Beat 'em up"
+280,Asterix & Obelix XXL3: The Crystal Menhir,['PS4'],34.99,6.99,-80,FULL_GAME,Microids,2019-11-21,OSome Studio,"Platformer, Beat 'em up"
+281,Mortal Blitz,['PS4'],15.99,4.79,-70,FULL_GAME,SKONEC Entertainment,2017-04-04,SKONEC Entertainment,"First Person Shooter, On Rails"
+282,Catch & Release,['PS4'],15.99,7.99,-50,FULL_GAME,metricminds,2018-08-28,metricminds,"Fishing, Simulation, Sports"
+283,Holfraine,['PS4'],3.99,2.39,-40,FULL_GAME,Good Game Publishing,2020-03-03,Fluxart Studios,Third Person Shooter
+285,Cloudpunk,['PS4'],19.99,7.99,-60,FULL_GAME,"Merge Games, H2 Interactive",2020-10-15,Ion Lands,Adventure
+286,RAD,['PS4'],15.99,3.99,-75,FULL_GAME,Bandai Namco Entertainment,2019-08-20,Double Fine,Roguelite
+287,Under The Jolly Roger,['PS4'],14.99,4.49,-70,FULL_GAME,HeroCraft,2020-02-25,Lion's Shade,"Open World, Action-RPG, Role Playing, Naval, Vehicular Combat"
+288,Mervils: A VR Adventure,['PS4'],12.99,3.89,-70,FULL_GAME,Vitruvius,2017-02-21,Vitruvius,Action-Adventure
+289,Umbrella Corps,['PS4'],11.99,2.99,-75,FULL_GAME,Capcom Entertainment,2016-06-21,Capcom Entertainment,Third Person Shooter
+290,Gravel,['PS4'],24.99,2.49,-90,FULL_GAME,Milestone,2018-02-27,Milestone,"Automobile, Arcade Racing"
+291,Super Star Blast,['PS4'],3.99,1.59,-60,FULL_GAME,EntwicklerX,2021-04-16,EntwicklerX,Shoot 'em up
+292,Marooners,['PS4'],7.99,3.19,-60,FULL_GAME,M2H,2018-02-06,M2H,Party
+293,Miden Tower,['PS4'],11.99,5.99,-50,FULL_GAME,KEMCO,2020-07-28,EXE-CREATE,"Role Playing, Turn Based"
+294,Galaxy Squad,['PS4'],6.49,3.24,-50,FULL_GAME,Big Way Games,2021-09-01,Kazakov Oleg,"Strategy, Turn Based"
+295,My Hidden Things,['PS4'],4.99,1.99,-60,FULL_GAME,Big Way Games,2020-12-11,Six Dots,"Adventure, Point & Click"
+296,Metal Gear Solid V: The Phantom Pain,['PS4'],24.99,4.99,-80,FULL_GAME,Konami Digital Entertainment,2015-09-01,Kojima Productions,"Open World, Third Person Shooter, Stealth"
+297,Season Match,['PS4'],8.99,4.49,-50,FULL_GAME,Joindots,2019-05-17,URSE,Puzzle
+298,Spot The Difference,['PS4'],7.99,1.99,-75,FULL_GAME,Sabec,2020-09-13,Sabec,Puzzle
+299,One Dog Story,['PS4'],9.99,3.99,-60,FULL_GAME,Big Way Games,2020-07-17,Big Way Games,"Platformer, Run & Gun"
+300,Cozy Grove,['PS4'],11.49,7.46,-35,FULL_GAME,The Quantum Astrophysicists Guild,2021-04-08,Spry Fox,Simulation
+301,Pool,['PS4'],7.99,1.99,-75,FULL_GAME,Sabec,2020-09-24,Sabec,"Sports, Cue Sports"
+302,Horizon Chase Turbo,['PS4'],15.99,3.99,-75,FULL_GAME,Aquiris Game Studio,2018-05-14,Aquiris Game Studio,"Automobile, Arcade Racing"
+303,Ary and the Secret of Seasons,['PS4'],34.99,6.99,-80,FULL_GAME,Modus Games,2020-09-01,"eXiin, Fishing Cactus",Action-Adventure
+304,Aggelos,['PS4'],12.99,3.24,-75,FULL_GAME,"PQube, PixelHeart",2019-07-12,"Clickteam, Wonderboy Bobi",Platformer
+305,Journey of the Broken Circle,['PS4'],6.49,1.29,-80,FULL_GAME,"Nakana.io, Red Art Games",2021-03-12,Lovable Hat Cult,Adventure
+306,Hover,['PS4'],19.99,14.99,-25,FULL_GAME,Plug In Digital,2018-09-18,Fusty Game,Platformer
+307,Bad North,['PS4'],11.99,3.59,-70,FULL_GAME,Raw Fury,2018-08-28,Plausible Concept,"Roguelite, Strategy, Real Time"
+309,Pixel Ripped 1989,['PS4'],12.99,6.49,-50,FULL_GAME,"Arvore Immersive Experiences, Perp Games",2018-07-31,Arvore Immersive Experiences,Adventure
+310,Prehistoric Dude,['PS4'],3.99,1.19,-70,FULL_GAME,Ratalaika Games,2020-08-11,lightUP,"Metroidvania, Platformer"
+311,Radon Blast,['PS4'],3.99,1.59,-60,FULL_GAME,EntwicklerX,2021-03-05,EntwicklerX,Action
+312,Sky Force Reloaded,['PS4'],7.99,5.59,-30,FULL_GAME,Crunching Koalas,2017-11-28,Infinite Dreams,Shoot 'em up
+313,Super Hydorah,['PS4'],15.99,7.99,-50,FULL_GAME,Abylight Studios,2017-12-13,Locomalito,Shoot 'em up
+314,The Sisters - Party of the Year,['PS4'],34.99,17.49,-50,FULL_GAME,Microids,2021-07-06,Balio Studio,Party
+315,Island Time VR,['PS4'],11.59,8.11,-30,FULL_GAME,Flight School Studio,2018-04-03,Flight School Studio,Survival
+316,Fort Triumph,['PS4'],15.99,7.99,-50,FULL_GAME,All In! Games,2021-08-13,CookieByte Entertainment,"Strategy, Turn Based"
+317,Moon Raider,['PS4'],7.99,1.99,-75,FULL_GAME,Drageus Games,2021-04-23,"Cascadia Games, Crescent Moon Games",Run & Gun
+318,Tango Fiesta,['PS4'],7.99,1.59,-80,FULL_GAME,Merge Games,2017-05-17,Spilt Milk Studios,Shoot 'em up
+319,Jet Set Knights,['PS4'],7.99,3.19,-60,FULL_GAME,Ratalaika Games,2020-09-22,FobTi Interactive,Action
+321,Zotrix,['PS4'],7.99,1.19,-85,FULL_GAME,UFO Interactive,2015-12-08,ZeroBit Games,Shoot 'em up
+322,Super Wiloo Demake,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2019-07-30,lightUP,Platformer
+323,"Cook, Serve, Delicious! 2!!",['PS4'],12.99,3.24,-75,FULL_GAME,Vertigo Games,2018-12-18,Vertigo Gaming,"Simulation, Management"
+324,Boom Blaster,['PS4'],5.79,2.89,-50,FULL_GAME,ChiliDog Interactive,2021-02-19,BigBread,Run & Gun
+326,Sayonara Wild Hearts,['PS4'],9.49,5.69,-40,FULL_GAME,"Annapurna Interactive, iam8bit",2019-09-19,Simogo,Action
+327,Brick Breaker,['PS4'],7.99,3.99,-50,FULL_GAME,Nacon,2016-04-26,Sanuk Games,Action
+328,Crypt of the NecroDancer,['PS4'],12.99,2.59,-80,GAME_BUNDLE,Klei Entertainment,2016-02-02,Brace Yourself Games,"Roguelite, Music"
+329,Door Kickers: Action Squad,['PS4'],12.99,3.89,-70,FULL_GAME,Killhouse Games,2019-10-24,Killhouse Games,Action
+330,Kentucky Route Zero: TV Edition,['PS4'],17.99,10.79,-40,FULL_GAME,"Annapurna Interactive, iam8bit",2020-01-28,Cardboard Computer,"Adventure, Point & Click"
+331,The World of Nubla,['PS4'],8.99,4.04,-55,FULL_GAME,Gammera Nest,2017-06-27,Gammera Nest,Puzzle
+332,Asdivine Kamura,['PS4'],11.99,5.99,-50,FULL_GAME,KEMCO,2019-10-02,EXE-CREATE,"Role Playing, Turn Based"
+333,Monster Sanctuary,['PS4'],15.99,4.79,-70,FULL_GAME,Team17 Software,2020-12-08,Moi Rai Games,"Metroidvania, Role Playing, Platformer"
+334,SYMMETRY,['PS4'],12.99,3.24,-75,FULL_GAME,IMGN.Pro,2018-02-20,Sleepless Clinic,Management
+335,Morbid: The Seven Acolytes,['PS4'],19.99,4.99,-75,FULL_GAME,"Merge Games, H2 Interactive",2020-12-03,Still Running,"Action-RPG, Role Playing, Dungeon Crawler"
+336,BeeFense BeeMastered,['PS4'],6.49,2.59,-60,FULL_GAME,ByteRockers Games,2021-06-24,ByteRockers Games,"Strategy, Tower Defence"
+337,Yoku's Island Express,['PS4'],15.99,3.19,-80,FULL_GAME,Team17 Software,2018-05-29,Villa Gorilla,"Metroidvania, Platformer, Pinball"
+395,Brain in Retro Space,['PS4'],2.49,1.24,-50,FULL_GAME,Erik Games,2019-11-25,Erik Games,Action
+338,Thief Simulator,['PS4'],15.99,7.99,-50,FULL_GAME,PlayWay,2020-08-12,Noble Muffins,"Open World, Stealth, Simulation"
+339,Epic Astro Story,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-11-12,Kairosoft,Management
+340,Fantasy General II: Invasion,['PS4'],26.99,13.22,-51,FULL_GAME,Slitherine Software,2020-07-31,Owned by Gravity,"Strategy, Turn Based"
+341,Quest Hunter,['PS4'],24.99,9.99,-60,FULL_GAME,2 Zombie Games,2020-09-04,2 Zombie Games,"Action-RPG, Role Playing"
+342,Dead Dust,['PS4'],3.99,2.19,-45,FULL_GAME,ChiliDog Interactive,2021-04-23,HugePixel,Shoot 'em up
+343,Tempest 4000,['PS4'],24.99,19.99,-20,FULL_GAME,Atari,2018-07-17,Llamasoft,Shoot 'em up
+344,Firefighters: Plant Fire Department,['PS4'],19.99,5.99,-70,FULL_GAME,United Independent Entertainment,2017-11-30,UIG Entertainment,Simulation
+345,Into A Dream,['PS4'],11.49,4.59,-60,FULL_GAME,Top Hat Studios,2021-03-04,Filipe F. Thomaz,Adventure
+346,Synth Riders,['PS4'],19.99,14.39,-28,FULL_GAME,Kluge Interactive,2021-08-10,Kluge Interactive,Music
+347,Max Payne,['PS4'],11.99,7.19,-40,FULL_GAME,Rockstar Games,2016-03-22,Remedy Entertainment,Third Person Shooter
+348,Lost Words: Beyond the Page,['PS4'],11.99,2.39,-80,FULL_GAME,Modus Games,2021-04-06,Sketchbook Games,Platformer
+349,Lethal League,['PS4'],11.99,5.99,-50,FULL_GAME,Team Reptile,2017-05-09,Team Reptile,Fighting
+350,My Universe - My Baby,['PS4'],34.99,10.49,-70,FULL_GAME,"Microids, Maximum Games",2021-01-26,Smart Tale Games,Simulation
+351,Asdivine Dios,['PS4'],11.99,5.99,-50,FULL_GAME,KEMCO,2019-07-02,EXE-CREATE,"Role Playing, Turn Based"
+352,Godstrike,['PS4'],11.99,5.99,-50,FULL_GAME,Freedom Games,2021-10-14,OverPowered Team,Shoot 'em up
+353,eCrossminton,['PS4'],11.99,4.19,-65,FULL_GAME,Factoria Cultural Gestio,2019-04-03,Daydream Software,Sports
+354,Gods Will Fall,['PS4'],11.99,2.99,-75,FULL_GAME,Deep Silver,2021-01-29,Clever Beans,Action-Adventure
+355,The Outer Worlds,['PS4'],49.99,16.49,-67,FULL_GAME,Private Division,2019-10-25,Obsidian Entertainment,"Open World, First Person Shooter, Role Playing"
+356,Warparty,['PS4'],7.99,3.19,-60,FULL_GAME,Rogueside,2019-03-28,Rogueside,"Strategy, Real Time"
+357,Jade's Ascension,['PS4'],7.99,2.79,-65,FULL_GAME,Gammera Nest,2020-11-04,Gammera Nest,Shoot 'em up
+358,The Evil Within 2,['PS4'],34.99,6.99,-80,FULL_GAME,Bethesda Softworks,2017-10-13,Tango Gameworks,"Action Horror, Third Person Shooter"
+360,The Last Door - Complete Edition,['PS4'],11.59,4.63,-60,FULL_GAME,Plug In Digital,2019-05-23,The Game Kitchen,"Adventure, Point & Click"
+361,while True: learn(),['PS4'],11.99,8.03,-33,FULL_GAME,Nival International,2020-07-07,Luden.io,"Puzzle, Educational & Trivia"
+362,Switch 'N' Shoot,['PS4'],3.29,1.8,-45,FULL_GAME,Huey Games,2020-11-04,Matt Glanville,Shoot 'em up
+363,Random Heroes: Gold Edition,['PS4'],3.99,1.19,-70,FULL_GAME,Ratalaika Games,2020-03-31,Woblyware,Platformer
+364,Epic Chef,['PS4'],19.99,7.99,-60,FULL_GAME,Team17 Software,2021-11-11,Infinigon,Management
+365,Surviving the Aftermath,['PS4'],24.99,14.99,-40,FULL_GAME,Paradox Interactive,2021-11-16,Iceflake Studios,Management
+366,Chop is Dish,['PS4'],3.99,2.79,-30,FULL_GAME,Victory Road,2020-03-16,HugePixel,Platformer
+367,The Survivalists,['PS4'],19.99,4.99,-75,FULL_GAME,"Team17 Software, Sold Out Sales & Marketing, Game Source Entertainment",2020-10-09,Team17 Software,"Survival, Management"
+368,Unearthing Mars 2: The Ancient War,['PS4'],15.99,7.99,-50,FULL_GAME,Winking Skywalker Entertainment,2018-09-18,Winking Entertainment,First Person Shooter
+369,Marsupilami: Hoobadventure,['PS4'],34.99,20.99,-40,FULL_GAME,Microids,2021-11-16,Ocellus Studio,Platformer
+370,Cat Quest,['PS4'],9.99,1.99,-80,FULL_GAME,PQube,2017-11-14,The Gentlebros,"Open World, Action-RPG, Role Playing"
+371,Lethal League Blaze,['PS4'],15.99,11.19,-30,FULL_GAME,Team Reptile,2019-07-12,Team Reptile,Fighting
+372,Root Film,['PS4'],34.99,17.49,-50,FULL_GAME,PQube,2021-03-19,Kadokawa Games,Visual Novel
+373,Asdivine Menace,['PS4'],11.99,5.99,-50,FULL_GAME,KEMCO,2019-08-02,EXE-CREATE,"Role Playing, Turn Based"
+374,Bouncy Bullets,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2019-07-09,Petite Games,"First Person Shooter, Platformer"
+375,Tooth and Tail,['PS4'],12.99,2.59,-80,FULL_GAME,Pocketwatch Games,2017-09-12,Pocketwatch Games,"Strategy, Real Time"
+376,The Wild Eight,['PS4'],15.99,6.39,-60,FULL_GAME,HypeTrain Digital,2020-10-27,"HypeTrain Digital, FNTASTIC",Survival
+377,Forestry 2017 - The Simulation,['PS4'],15.99,4.79,-70,FULL_GAME,United Independent Entertainment,2016-10-28,Silent Future,Simulation
+378,Angry Birds VR: Isle of Pigs,['PS4'],11.99,8.39,-30,FULL_GAME,Resolution Games,2019-03-26,Resolution Games,Puzzle
+379,Summer Sports Games,['PS4'],19.99,13.99,-30,FULL_GAME,Joindots,2019-06-04,Joindots,Sports
+380,Azure Reflections,['PS4'],19.99,9.99,-50,FULL_GAME,UNTIES,2018-05-15,souvenir circ.,Shoot 'em up
+381,Acalesia,['PS4'],3.99,2.79,-30,FULL_GAME,Victory Road,2021-04-01,BAkau,Platformer
+382,Merrily Perrilly,['PS4'],3.99,1.59,-60,FULL_GAME,Top Hat Studios,2021-06-30,Top Hat Studios,Adventure
+383,Gunducky Industries++,['PS4'],0.39,0.19,-50,FULL_GAME,The Voices Games,2021-04-28,The Voices Games,On Rails
+384,Smoke And Sacrifice,['PS4'],15.99,2.39,-85,FULL_GAME,Curve Games,2019-01-15,Solar Sail Games,"Action-Adventure, Survival"
+385,Neptunia x SENRAN KAGURA: Ninja Wars,['PS4'],44.99,22.49,-50,FULL_GAME,Idea Factory,2021-10-26,"Compile Heart, Tamsoft, Idea Factory",Hack & Slash
+386,NO THING,['PS4'],1.69,0.16,-90,FULL_GAME,Forever Entertainment,2020-12-11,"Evil Indie Games, Storm Trident",Adventure
+387,El Hijo - A Wild West Tale,['PS4'],15.99,12.79,-20,FULL_GAME,HandyGames,2021-03-25,"Honig Studios, Quantumfrog",Stealth
+388,Roundguard,['PS4'],13.99,4.89,-65,FULL_GAME,The Quantum Astrophysicists Guild,2020-03-17,Wonderbelly Games,"Roguelite, Puzzle"
+389,Premium Pool Arena,['PS4'],7.99,3.99,-50,FULL_GAME,Nacon,2018-02-20,Iceflake Studios,"Sports, Cue Sports"
+390,CATTCH,['PS4'],7.99,3.99,-50,FULL_GAME,ChiliDog Interactive,2020-12-18,Infected Pixels Studio,Platformer
+391,Twilight Path,['PS4'],11.99,5.99,-50,FULL_GAME,Charm Games,2020-10-27,Charm Games,Adventure
+392,Ling: A Road Alone,['PS4'],7.99,3.99,-50,FULL_GAME,Winking Skywalker Entertainment,2019-10-02,Chautauqua Software,Action
+393,Sublevel Zero Redux,['PS4'],15.99,3.19,-80,FULL_GAME,Merge Games,2017-03-03,SIGTRAP Games,First Person Shooter
+394,Heart&Slash,['PS4'],24.99,6.24,-75,FULL_GAME,BadLand Publishing,2016-06-24,Aheartfulofgames,"Roguelite, Hack & Slash"
+396,Chronus Arc,['PS4'],11.99,5.99,-50,FULL_GAME,KEMCO,2018-10-30,Hit-Point,"Role Playing, Turn Based"
+397,Revenant Dogma,['PS4'],11.99,5.99,-50,FULL_GAME,KEMCO,2018-09-25,EXE-CREATE,"Role Playing, Turn Based"
+399,The Flame in the Flood: Complete Edition,['PS4'],11.99,2.39,-80,FULL_GAME,Curve Games,2017-01-17,The Molasses Flood,Action-Adventure
+400,Remnant: From the Ashes,['PS4'],32.99,13.19,-60,FULL_GAME,Perfect World Entertainment,2019-08-20,Gunfire Games,"Action-RPG, Role Playing, Third Person Shooter"
+401,Rock 'N Racing Off Road DX,['PS5'],6.49,4.86,-25,FULL_GAME,Unfinished Pixel,2016-11-29,EnjoyUp Games,"Automobile, Arcade Racing"
+402,Micetopia,['PS4'],3.99,1.39,-65,FULL_GAME,Ratalaika Games,2020-11-20,Ninja Rabbit Studio,"Metroidvania, Platformer"
+403,ScourgeBringer,"['PS4', 'PS5']",13.99,7.69,-45,FULL_GAME,"Dear Villagers, Pix'n Love",2021-04-22,Flying Oak Games,"Roguelite, Platformer"
+404,Etherborn,['PS4'],11.49,5.17,-55,FULL_GAME,Altered Matter,2019-07-18,Altered Matter,"Puzzle, Platformer"
+405,God Eater 3,['PS4'],49.99,6.99,-86,FULL_GAME,Bandai Namco Entertainment,2019-02-08,First Studio,"Action-RPG, Role Playing"
+406,World to the West,['PS4'],15.99,7.99,-50,FULL_GAME,SOEDESCO,2017-05-05,Rain Games,Action-Adventure
+407,Aery - Broken Memories,['PS4'],11.99,7.19,-40,FULL_GAME,EpiXR Games,2021-03-26,EpiXR Games,Adventure
+408,Ancestors: The Humankind Odyssey,['PS4'],32.99,13.19,-60,FULL_GAME,Private Division,2019-12-06,Panache Digital Games,"Open World, Survival"
+409,The Padre,['PS4'],15.99,3.19,-80,FULL_GAME,Feardemic,2019-06-27,Shotgun With Glitters,Survival Horror
+410,Manhunt,['PS4'],11.99,7.19,-40,FULL_GAME,Rockstar Games,2016-03-22,Rockstar North,"Action-Adventure, Stealth"
+411,Conarium,['PS4'],15.99,3.99,-75,FULL_GAME,Iceberg Interactive,2019-02-12,Zoetrope Interactive,Adventure
+412,Horned Knight,['PS4'],4.99,2.49,-50,FULL_GAME,2Awesome Studio,2021-02-23,Josep Monzonis Hernandez,Platformer
+413,DEAD OR ALIVE 6,['PS4'],54.99,13.74,-75,FULL_GAME,KOEI TECMO,2019-03-01,Team Ninja,Fighting
+415,Aground,['PS4'],9.79,6.36,-35,FULL_GAME,Whitethorn Digital,2021-02-11,Fancy Fish Games,Sandbox
+416,Deployment,['PS4'],1.39,0.55,-60,FULL_GAME,Whale Rock Games,2018-09-19,Whale Rock Games,Shoot 'em up
+417,World Cruise Story,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-10-30,Kairosoft,Management
+418,Sky Force Anniversary,['PS4'],7.99,5.59,-30,FULL_GAME,Infinite Dreams,2016-09-06,Infinite Dreams,Shoot 'em up
+419,Cursed Castilla (Maldita Castilla EX),['PS4'],9.49,4.74,-50,FULL_GAME,Abylight Studios,2016-12-16,Locomalito,Platformer
+420,Raji: An Ancient Epic,['PS4'],19.99,6.79,-66,FULL_GAME,Super.com,2020-10-15,Nodding Heads Games,"Role Playing, Real Time"
+421,Ravensword: Shadowlands,['PS4'],5.79,2.31,-60,FULL_GAME,Ratalaika Games,2021-04-09,Crescent Moon Games,"Open World, Action-RPG, Role Playing"
+422,Beyond Blue,['PS4'],15.99,10.39,-35,FULL_GAME,E-Line Media,2020-06-11,E-Line Media,Adventure
+423,Lone Survivor: The Director's Cut,['PS4'],7.99,0.79,-90,FULL_GAME,Curve Games,2013-09-24,Superflat Games,"Action-Adventure, Survival Horror"
+424,Pro Fishing Simulator,['PS4'],39.99,3.99,-90,FULL_GAME,Nacon,2018-11-29,Sanuk Games,"Fishing, Simulation, Sports"
+425,Overpass,['PS4'],24.99,12.49,-50,FULL_GAME,Nacon,2020-03-17,Zordix,"Automobile, Simulation"
+426,Euro Fishing,['PS4'],14.99,2.99,-80,FULL_GAME,Dovetail Games,2017-04-11,Dovetail Games,"Fishing, Simulation, Sports"
+427,NeuroVoider,['PS4'],11.49,2.87,-75,FULL_GAME,Plug In Digital,2017-03-14,Flying Oak Games,"Roguelite, Shoot 'em up"
+428,Teacup,['PS4'],7.39,4.8,-35,FULL_GAME,Whitethorn Digital,2021-09-23,Smarto Club,Adventure
+429,Monkey King: Master of the Clouds,['PS4'],3.99,0.99,-75,FULL_GAME,UFO Interactive,2018-11-21,Starfish-SD,Shoot 'em up
+430,Super Weekend Mode,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2019-04-09,Pixelteriyaki,Shoot 'em up
+431,Waves Out!,['PS4'],7.99,2.79,-65,FULL_GAME,Gammera Nest,2021-01-20,Crevice Games,Action
+432,Gal*Gun: Double Peace,['PS4'],15.99,7.99,-50,FULL_GAME,PQube,2016-08-02,Inti CREATES,"First Person Shooter, On Rails"
+433,Strawberry Vinegar,['PS4'],7.99,2.39,-70,FULL_GAME,Ratalaika Games,2020-06-02,ebi-hime,Visual Novel
+434,Yet Another Zombie Defense HD,['PS4'],3.99,1.19,-70,FULL_GAME,Awesome Games Studio,2021-03-19,Awesome Games Studio,Shoot 'em up
+435,Extreme Exorcism,['PS4'],4.99,0.99,-80,FULL_GAME,Ripstone,2015-09-23,Golden Ruby Games,Action
+436,Lydia,['PS4'],2.49,0.99,-60,FULL_GAME,Nakana.io,2021-10-01,Platonic Partnership,Adventure
+438,Brut@l,['PS4'],11.99,5.99,-50,FULL_GAME,Stormcloud Games,2016-08-09,Stormcloud Games,"Roguelite, Dungeon Crawler"
+439,Owlboy,['PS4'],17.99,8.99,-50,FULL_GAME,D-Pad Studio,2018-04-10,D-Pad Studio,"Metroidvania, Platformer"
+440,Toby: The Secret Mine,['PS4'],12.99,2.59,-80,FULL_GAME,Headup Games,2017-07-06,Lukas Navratil,Platformer
+441,KUUKIYOMI: Consider It!,['PS4'],3.69,1.84,-50,FULL_GAME,G-MODE,2020-10-20,G-MODE,Simulation
+442,Merek's Market,"['PS4', 'PS5']",14.99,10.49,-30,FULL_GAME,Big Village Games,2021-09-15,Big Village Games,Management
+443,Solitaire,['PS4'],7.99,2.39,-70,FULL_GAME,Nacon,2016-10-11,Sanuk Games,Card & Board
+444,Fight of Animals,['PS4'],9.99,7.99,-20,FULL_GAME,Digital Crafter,2020-09-24,Digital Crafter,Fighting
+445,Fear Effect Sedna,['PS4'],15.99,1.59,-90,FULL_GAME,Square Enix,2018-03-06,Sushee,Action-Adventure
+446,Planet of the Eyes,['PS4'],7.99,0.79,-90,FULL_GAME,Cococucumber,2017-09-12,Cococucumber,"Puzzle, Platformer"
+447,WeakWood Throne,['PS4'],3.99,1.59,-60,FULL_GAME,Drageus Games,2021-09-03,Gnelf,"Action-RPG, Role Playing"
+448,Mekabolt,['PS4'],3.99,1.19,-70,GAME_BUNDLE,Ratalaika Games,2019-08-20,Somepx,Platformer
+449,Shadow Legend VR,['PS4'],19.99,9.99,-50,FULL_GAME,Vitruvius,2020-01-21,Vitruvius,"Action-RPG, Role Playing"
+450,Strikers Edge,['PS4'],12.99,3.24,-75,FULL_GAME,PLAYDIUS,2018-01-30,Fun Punch Games,Fighting
+451,IN-VERT,['PS4'],3.99,2.79,-30,FULL_GAME,Victory Road,2020-01-10,TERNOX,"Puzzle, Platformer"
+453,Loading Human: Chapter 1,['PS4'],8.99,0.89,-90,FULL_GAME,Maximum Games,2016-10-13,Untold Games,Action-Adventure
+454,Valthirian Arc: Hero School Story,['PS4'],9.99,1.99,-80,FULL_GAME,PQube,2018-10-02,Agate,"Action-RPG, Role Playing, Management"
+455,Sherlock Holmes: Crimes and Punishments,['PS4'],32.99,6.59,-80,FULL_GAME,Frogwares,2020-01-09,Frogwares,"Adventure, Point & Click"
+456,VRobot,['PS4'],11.99,3.59,-70,FULL_GAME,Nival International,2018-07-24,Luden.io,Action
+457,Portal Knights,['PS4'],15.99,6.39,-60,FULL_GAME,505 Games,2017-06-05,keen games,"Action-RPG, Role Playing, Sandbox"
+458,Labyrinth Life,['PS4'],39.99,15.59,-61,FULL_GAME,D3Publisher,2019-08-01,Matrix Software,"Role Playing, Management, Turn Based, Dungeon Crawler"
+459,Apex Construct,['PS4'],7.99,3.19,-60,FULL_GAME,Fast Travel Games,2018-02-20,Fast Travel Games,Action-Adventure
+460,Cafeteria Nipponica,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-10-01,Kairosoft,"Simulation, Management"
+461,Secret of Mana,['PS4'],32.99,16.49,-50,FULL_GAME,Square Enix,2018-02-15,Square Enix,"Action-RPG, Role Playing"
+462,Darkestville Castle,['PS4'],11.99,3.59,-70,GAME_BUNDLE,Buka Entertainment,2020-08-13,Epic Llama,"Adventure, Point & Click"
+463,20XX,['PS4'],12.99,6.49,-50,FULL_GAME,Fire Hose Games,2018-07-10,Batterystaple Games,"Roguelite, Platformer"
+464,Of Tanks and Demons III,['PS4'],3.69,2.58,-30,FULL_GAME,Victory Road,2020-08-17,Hoodoo Bear,"Automobile, Vehicular Combat"
+465,Castle Pals,['PS4'],3.99,0.79,-80,FULL_GAME,Ratalaika Games,2020-05-26,Brad Erkkila,Platformer
+466,Taimumari: Complete Edition,['PS4'],3.99,2.79,-30,FULL_GAME,Victory Road,2020-05-04,TERNOX,"Platformer, Shoot 'em up"
+467,Beats Fever,['PS4'],15.99,9.59,-40,FULL_GAME,Shanghai Chenyou Information Techno,2018-12-18,Arrowiz,Music
+468,Unearthing Mars,['PS4'],11.99,5.99,-50,FULL_GAME,Winking Entertainment,2017-03-07,Winking Entertainment,Adventure
+469,The Manga Works,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-05-14,Kairosoft,"Simulation, Management"
+470,The Swindle,['PS4'],11.99,1.19,-90,GAME_BUNDLE,Curve Games,2015-07-28,Size Five Games,"Roguelite, Stealth, Platformer"
+471,Battle of the Bulge,['PS4'],7.99,3.91,-51,FULL_GAME,Slitherine Software,2017-11-22,Shenandoah Studio,"Strategy, Turn Based"
+472,Hue,['PS4'],11.99,2.39,-80,FULL_GAME,Curve Games,2016-08-30,Fiddlesticks,"Puzzle, Platformer"
+473,The Sojourn,['PS4'],17.99,6.11,-66,FULL_GAME,Iceberg Interactive,2019-09-20,Shifting Tides,Puzzle
+474,MilkChoco,['PS4'],19.99,15.59,-22,FULL_GAME,GameParadiso,2021-10-07,GameParadiso,Third Person Shooter
+476,The Bard's Tale: Remastered and Resnarkled,['PS4'],7.99,1.59,-80,FULL_GAME,inXile Entertainment,2017-08-22,inXile Entertainment,"Action-RPG, Role Playing"
+477,Last Day of June,['PS4'],15.99,3.99,-75,FULL_GAME,505 Games,2017-08-31,Ovosonico,Adventure
+478,Wattam,['PS4'],15.99,4.79,-70,FULL_GAME,"Annapurna Interactive, iam8bit",2019-12-17,Funomena,Adventure
+479,Art of Balance,['PS4'],7.39,4.43,-40,FULL_GAME,Shinen,2016-06-03,Shinen,Puzzle
+480,DragonFangZ - The Rose & Dungeon of Time,['PS4'],28.99,11.59,-60,FULL_GAME,Toydea,2019-05-29,Toydea,"Roguelite, Dungeon Crawler"
+481,The Sokoban,['PS4'],11.99,7.79,-35,FULL_GAME,Unbalance,2021-10-27,Unbalance,Puzzle
+482,Backbone,"['PS4', 'PS5']",19.99,11.99,-40,FULL_GAME,Raw Fury,2021-10-27,EGGNUT,Adventure
+483,Super Time Force Ultra,['PS4'],13.99,3.49,-75,GAME_BUNDLE,Capy Games,2015-09-01,Capy Games,Run & Gun
+484,The Count Lucanor,['PS4'],12.99,2.59,-80,FULL_GAME,Merge Games,2017-11-21,Baroque Decay,Action-Adventure
+485,Genesis Alpha One,['PS4'],24.99,6.24,-75,FULL_GAME,Team17 Software,2019-01-29,Radiation Blue,"First Person Shooter, Management"
+486,Steampunk Tower 2,['PS4'],7.99,3.19,-60,FULL_GAME,Drageus Games,2020-12-04,DreamGate Company,"Strategy, Tower Defence"
+487,Punch Line,['PS4'],34.99,6.99,-80,FULL_GAME,PQube,2018-09-25,MAGES.,Visual Novel
+488,Road Rage,['PS4'],15.99,1.59,-90,FULL_GAME,Maximum Games,2017-11-14,Team6 Game Studios,"Automobile, Open World, Arcade Racing, Vehicular Combat"
+489,Fallout 76,['PS4'],34.99,8.74,-75,FULL_GAME,Bethesda Softworks,2018-11-14,Bethesda Game Studios,"Battle Royale, Open World, Action-RPG, First Person Shooter, Role Playing, Third Person Shooter, Survival, MMO"
+490,Persona 5,['PS4'],49.99,12.49,-75,FULL_GAME,Atlus,2017-04-04,P-Studio,"Role Playing, Turn Based"
+491,Mini Motor Racing X,['PS4'],19.99,2.99,-85,FULL_GAME,Nextgen Reality,2019-12-17,The Binary Mill,"Automobile, Arcade Racing"
+492,VERTI-GO HOME!,['PS4'],9.99,4.99,-50,FULL_GAME,Trucker VR,2019-03-08,Trucker VR,Action
+493,GUNDAM VERSUS,['PS4'],15.99,3.19,-80,FULL_GAME,Bandai Namco Entertainment,2017-09-29,VSTG Project,"Fighting, Mech"
+494,CODE VEIN,['PS4'],49.99,10.49,-79,FULL_GAME,Bandai Namco Entertainment,2019-09-27,Bandai Namco Entertainment,"Action-RPG, Role Playing"
+495,BPM: Bullets Per Minute,['PS4'],19.99,12.99,-35,FULL_GAME,Playtonic Games,2021-10-05,Awe Interactive,"Roguelite, First Person Shooter"
+496,Dick Wilde,['PS4'],11.99,2.39,-80,FULL_GAME,PlayStack,2017-05-16,Bolvërk Games,"First Person Shooter, On Rails"
+497,Sweet Witches,['PS4'],7.99,1.59,-80,FULL_GAME,Drageus Games,2020-10-30,LumenSection,Action
+498,Atelier Ryza: Ever Darkness & the Secret Hideout,['PS4'],49.99,24.99,-50,FULL_GAME,KOEI TECMO,2019-10-29,Gust,"Action-RPG, Role Playing"
+499,Princess.Loot.Pixel.Again,['PS4'],3.69,1.47,-60,FULL_GAME,Big Way Games,2021-10-27,Synthetic Domain,Platformer
+500,Tetragon,['PS4'],11.99,3.59,-70,GAME_BUNDLE,Buka Entertainment,2021-08-12,Cafundo Estudio Criativo,Puzzle
+501,Lust for Darkness,['PS4'],9.99,7.99,-20,FULL_GAME,SimFabric,2020-10-23,Movie Games Lunarium,Adventure
+502,Cosmic Top Secret,['PS4'],7.99,1.59,-80,FULL_GAME,Nakana.io,2021-05-21,"Klassefilm, Those Eyes",Adventure
+503,Inertial Drift,['PS4'],15.99,7.99,-50,FULL_GAME,PQube,2020-09-11,Level 91 Entertainment,"Automobile, Arcade Racing"
+504,Panzer Dragoon: Remake,['PS4'],19.99,1.99,-90,FULL_GAME,Forever Entertainment,2020-09-28,MegaPixel Studio,Shoot 'em up
+505,NBA 2KVR Experience,['PS4'],11.99,5.99,-50,FULL_GAME,2K Games,2016-11-22,Specular Interactive,"Sports, Basketball"
+506,Evan's Remains,['PS4'],6.19,3.09,-50,FULL_GAME,Whitethorn Digital,2020-07-31,Matias Schmied,"Puzzle, Platformer"
+507,Shady Part of Me,['PS4'],11.99,4.07,-66,FULL_GAME,Focus Entertainment,2020-12-10,Douze Dixièmes,Platformer
+508,Gnomes Garden,['PS4'],3.69,1.47,-60,FULL_GAME,8Floor,2018-10-17,Creobit,Management
+509,The Evil Within,['PS4'],15.99,3.99,-75,FULL_GAME,Bethesda Softworks,2014-10-14,Tango Gameworks,"Action Horror, Third Person Shooter"
+510,Hyper Jam,['PS4'],12.99,4.54,-65,FULL_GAME,Bit Dragon,2019-02-12,Bit Dragon,Action
+511,Chariot,['PS4'],11.99,1.19,-90,FULL_GAME,Frima Studio,2014-09-30,Frima Studio,Platformer
+512,99Vidas,['PS4'],7.99,2.39,-70,FULL_GAME,QUByte Interactive,2017-07-18,QUByte Interactive,Beat 'em up
+513,Vera Blanc: Full Moon,['PS4'],3.99,1.59,-60,FULL_GAME,Ratalaika Games,2020-11-10,Winter Wolves,Visual Novel
+514,ChromaGun,['PS4'],11.99,5.99,-50,FULL_GAME,Benjamin Lochmann New Media,2017-08-22,Pixel Maniacs,Puzzle
+515,Gleamlight,['PS4'],13.99,2.79,-80,FULL_GAME,D3Publisher,2020-08-20,DICO,Platformer
+516,Moto Racer 4,['PS4'],34.99,3.49,-90,FULL_GAME,Microids,2016-11-03,Artefacts Studio,"Automobile, Arcade Racing"
+517,Batman: Arkham Knight,['PS4'],15.99,9.59,-40,FULL_GAME,Warner Bros. Interactive Entertainment,2015-06-23,Rocksteady Studios,"Open World, Stealth, Beat 'em up"
+518,Feudal Alloy,['PS4'],11.99,2.39,-80,FULL_GAME,Attu Games,2019-05-14,Attu Games,"Metroidvania, Platformer"
+519,Torchlight II,['PS4'],15.99,7.99,-50,FULL_GAME,Perfect World Entertainment,2019-09-03,Panic Button,"Action-RPG, Role Playing, Dungeon Crawler"
+520,DEEMO -Reborn-,['PS4'],32.99,13.19,-60,FULL_GAME,UNTIES,2019-11-21,Rayark,"Puzzle, Music"
+521,Towaga: Among Shadows,['PS4'],11.99,1.19,-90,FULL_GAME,Forever Entertainment,2020-12-18,"Sunnyside Games, Forever Entertainment",Shoot 'em up
+522,Lamentum,['PS4'],12.99,6.49,-50,FULL_GAME,Neon Doctrine,2021-08-31,Obscure Tales,Survival Horror
+523,Emily Wants to Play,['PS4'],4.99,2.99,-40,FULL_GAME,SKH Apps,2016-08-09,Shawn Hitchcock,Survival Horror
+524,Monster Hunter World: Iceborne,['PS4'],24.99,16.24,-35,LEVEL,Capcom Entertainment,2019-09-06,Capcom Entertainment,"Action-RPG, Role Playing"
+525,Pixel Ripped 1995,['PS4'],15.99,11.19,-30,FULL_GAME,Arvore Immersive Experiences,2020-05-12,Arvore Immersive Experiences,Adventure
+526,Hunt,['PS4'],7.99,1.99,-75,FULL_GAME,Sabec,2020-08-15,Sabec,"Hunting, First Person Shooter, Sports"
+527,The Great Perhaps,['PS4'],7.99,2.39,-70,FULL_GAME,Drageus Games,2020-07-10,Caligari Games,Adventure
+528,Niche - a genetics survival game,['PS4'],15.99,11.19,-30,FULL_GAME,Stray Fawn Studio,2021-08-31,Stray Fawn Studio,"Strategy, Turn Based"
+529,Teslagrad,['PS4'],11.99,3.59,-70,GAME_BUNDLE,SOEDESCO,2014-12-03,Rain Games,"Puzzle, Platformer"
+531,Achtung! Cthulhu Tactics,['PS4'],19.99,6.99,-65,FULL_GAME,Ripstone,2018-11-20,Auroch Digital,"Role Playing, Strategy, Turn Based"
+532,BFF or Die,['PS4'],6.49,3.24,-50,FULL_GAME,2Awesome Studio,2020-11-24,ASA Studio,Puzzle
+533,Ninja Legends,['PS4'],19.99,11.99,-40,FULL_GAME,Perp Games,2020-10-30,Coinflip Studios,Action
+534,Flinthook,['PS4'],10.99,5.49,-50,FULL_GAME,Tribute Games,2017-04-18,Tribute Games,"Roguelite, Platformer"
+535,Cat Quest II,['PS4'],11.99,3.59,-70,FULL_GAME,PQube,2019-10-24,The Gentlebros,"Open World, Action-RPG, Role Playing"
+536,The Angry Birds Movie 2 VR: Under Pressure,['PS4'],12.99,6.49,-50,FULL_GAME,XR Games,2019-08-06,XR Games,Puzzle
+537,G.I. Joe: Operation Blackout,['PS4'],34.99,8.74,-75,FULL_GAME,GameMill Entertainment,2020-10-13,"Iguanabee, Fair Play Labs",Third Person Shooter
+538,Rogue Legacy,['PS4'],13.99,5.59,-60,FULL_GAME,Cellar Door Games,2014-07-29,Cellar Door Games,Platformer
+539,Dragon Marked For Death,['PS4'],32.99,16.49,-50,FULL_GAME,Inti CREATES,2020-07-22,Inti CREATES,"Action-RPG, Role Playing"
+540,Hatsune Miku: Project DIVA X,['PS4'],36.99,18.49,-50,FULL_GAME,SEGA,2016-08-30,SEGA,Music
+541,Anamorphine,['PS4'],16.99,7.64,-55,FULL_GAME,Artifact 5,2018-07-31,Artifact 5,Adventure
+542,Funny Truck,['PS4'],0.79,0.67,-15,FULL_GAME,RandomSpin Games,2021-07-17,RandomSpin Games,Action
+543,Sairento VR,['PS4'],34.99,12.24,-65,FULL_GAME,Perp Games,2019-07-10,Mixed Realms,First Person Shooter
+544,Arkham Horror: Mother's Embrace,['PS4'],15.99,6.39,-60,FULL_GAME,Asmodee Digital,2021-03-23,Artefacts Studio,"Strategy, Turn Based"
+545,HoPiKo,['PS4'],5.79,1.15,-80,FULL_GAME,Merge Games,2016-10-18,Laser Dog,Platformer
+546,Warhammer Age of Sigmar: Storm Ground,['PS4'],15.99,5.59,-65,FULL_GAME,Focus Entertainment,2021-05-27,Gasket Games,"Strategy, Turn Based"
+547,KINGDOM HEARTS III,['PS4'],54.99,38.49,-30,FULL_GAME,Square Enix,2019-01-29,Square Enix,"Action-RPG, Role Playing"
+548,A Day Without Me,['PS4'],3.99,2.79,-30,FULL_GAME,ChiliDog Interactive,2021-09-10,Gamecom Team,Adventure
+549,Dadish,['PS4'],7.39,5.17,-30,FULL_GAME,Thomas K. Young,2021-09-27,Thomas K. Young,Platformer
+550,Nex Machina,['PS4'],15.99,4.79,-70,FULL_GAME,Housemarque,2017-06-20,Housemarque,Shoot 'em up
+551,Pool Slide Story,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-07-16,Kairosoft,"Simulation, Management"
+552,Lanternium,['PS4'],3.69,2.58,-30,FULL_GAME,Victory Road,2020-07-12,Victory Road,Puzzle
+553,I'm Hungry,['PS4'],13.99,6.99,-50,FULL_GAME,Winking Entertainment,2019-07-03,Winking Entertainment,Simulation
+554,Riverbond,['PS4'],17.99,1.79,-90,FULL_GAME,Cococucumber,2019-06-09,Cococucumber,Action-Adventure
+555,The Unicorn Princess,['PS4'],15.99,6.39,-60,FULL_GAME,Nacon,2020-02-11,Caipirinha Games,Simulation
+557,FoxyLand,['PS4'],3.99,1.19,-70,GAME_BUNDLE,Ratalaika Games,2019-11-26,BUG-Studio,Platformer
+558,Absolute Drift: Zen Edition,['PS4'],9.49,2.84,-70,FULL_GAME,Flippfly,2016-08-23,Funselektor Labs,"Automobile, Arcade Racing"
+559,Pato Box,['PS4'],7.99,2.39,-70,FULL_GAME,Bromio,2018-08-28,Bromio,"Sports, Boxing"
+560,Emerald Shores,['PS4'],4.49,2.24,-50,GAME_BUNDLE,Fordesoft,2018-11-13,Fordesoft,Platformer
+561,Blacksmith of the Sand Kingdom,"['PS4', 'PS5']",15.99,8.79,-45,FULL_GAME,KEMCO,2021-11-12,Rideon,"Role Playing, Turn Based"
+562,Pure Farming 2018,['PS4'],24.99,6.24,-75,FULL_GAME,Techland,2018-03-13,Ice Flames,Simulation
+563,ChromaGun VR,['PS4'],15.99,7.99,-50,FULL_GAME,Pixel Maniacs,2019-02-19,Pixel Maniacs,Puzzle
+564,Blasphemous,['PS4'],19.99,4.99,-75,FULL_GAME,Team17 Software,2019-09-10,The Game Kitchen,"Metroidvania, Platformer"
+565,Reverie,['PS4'],9.99,2.49,-75,FULL_GAME,Rainbite,2018-05-10,Rainbite,Action-Adventure
+566,Rock of Ages 3: Make & Break,['PS4'],24.99,4.99,-80,FULL_GAME,Modus Games,2020-07-21,ACE Team,"Platformer, Strategy, Tower Defence"
+567,Kotodama: The 7 Mysteries of Fujisawa,['PS4'],19.99,3.99,-80,FULL_GAME,PQube,2019-06-04,Art Co,"Puzzle, Visual Novel"
+568,Red Wings: Aces of the Sky,['PS4'],15.99,1.59,-90,FULL_GAME,All In! Games,2020-10-13,All In! Games,"Aerial, Vehicular Combat"
+570,Biomutant,['PS4'],54.99,32.99,-40,FULL_GAME,THQ Nordic,2021-05-25,Experiment 101,"Open World, Action-RPG, Role Playing"
+571,Loot Hero DX,['PS4'],3.99,1.19,-70,FULL_GAME,Ratalaika Games,2021-01-15,VaragtP Studios,Hack & Slash
+572,DiRT 4,['PS4'],17.99,4.49,-75,FULL_GAME,Codemasters,2017-06-06,Codemasters,"Automobile, Simulation Racing"
+573,Blood Bowl 2,['PS4'],15.99,7.99,-50,FULL_GAME,Focus Entertainment,2015-09-22,Cyanide Studio,"Strategy, Turn Based, Card & Board"
+574,NEXTGEN SANDBOX,['PS4'],7.39,1.84,-75,FULL_GAME,Proud Arts,2019-09-13,Proud Arts,Sandbox
+575,The Bridge,['PS4'],7.99,1.59,-80,FULL_GAME,The Quantum Astrophysicists Guild,2015-08-25,The Quantum Astrophysicists Guild,Puzzle
+576,Serial Cleaner,['PS4'],11.99,2.39,-80,FULL_GAME,Curve Games,2017-07-11,iFun4all,Stealth
+577,Aery - Sky Castle,['PS4'],7.99,4.79,-40,FULL_GAME,EpiXR Games,2021-04-09,EpiXR Games,Adventure
+578,Crown Trick,['PS4'],15.99,5.59,-65,FULL_GAME,Team17 Software,2021-09-07,NExT Studios,"Strategy, Turn Based"
+579,L.A. Noire: The VR Case Files,['PS4'],24.99,12.49,-50,FULL_GAME,Rockstar Games,2019-09-23,Rockstar Games,"Open World, Action-Adventure"
+580,Splasher,['PS4'],11.99,2.99,-75,FULL_GAME,Plug In Digital,2017-09-27,Splashteam,Platformer
+581,Hide & Dance!,['PS4'],3.99,2.79,-30,FULL_GAME,Hap,2020-11-19,"Hap, KEMCO",Music
+582,The Great Ace Attorney Chronicles,['PS4'],32.99,20.45,-38,FULL_GAME,Capcom Entertainment,2021-07-27,Capcom Entertainment,"Collection, Visual Novel"
+583,Die With Glory,['PS4'],5.79,2.89,-50,FULL_GAME,ChiliDog Interactive,2021-03-26,Veslo Games,"Adventure, Point & Click"
+584,Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings DX,['PS4'],32.99,23.09,-30,FULL_GAME,KOEI TECMO,2021-04-22,Gust,"Role Playing, Turn Based"
+585,Fujii,['PS4'],9.49,6.16,-35,FULL_GAME,Funktronic Labs,2019-12-10,Funktronic Labs,Action-Adventure
+586,Torchlight III,['PS4'],32.99,8.24,-75,FULL_GAME,Perfect World Entertainment,2020-10-13,Echtra Games,"Action-RPG, Role Playing"
+587,Red Matter,['PS4'],24.99,9.99,-60,FULL_GAME,Vertical Robot,2018-12-11,Vertical Robot,Adventure
+588,Solo: Islands of the Heart,['PS4'],15.99,4.79,-70,FULL_GAME,Merge Games,2019-07-31,Team Gotham,"Puzzle, Platformer"
+589,AO Tennis 2,['PS4'],47.99,9.59,-80,FULL_GAME,"Nacon, Oizumi Amuzio",2020-01-09,Big Ant Studios,"Sports, Tennis"
+590,Raging Loop,['PS4'],24.99,12.49,-50,FULL_GAME,PQube,2019-10-22,Dwango,Visual Novel
+591,Red Dead Redemption 2,['PS4'],54.99,21.99,-60,FULL_GAME,Rockstar Games,2018-10-26,Rockstar North,"Open World, First Person Shooter, Third Person Shooter"
+592,Momonga Pinball Adventures,['PS4'],4.99,1.69,-66,FULL_GAME,Plug In Digital,2016-12-20,Paladin Studios,"Adventure, Pinball"
+593,We Are The Dwarves,['PS4'],1.69,0.67,-60,FULL_GAME,Whale Rock Games,2017-03-21,Whale Rock Games,Action-Adventure
+594,EarthNight,['PS4'],14.99,2.99,-80,FULL_GAME,Cleaversoft,2020-01-23,Cleaversoft,Platformer
+595,XIII,['PS4'],44.99,26.99,-40,FULL_GAME,Microids,2020-11-10,PlayMagic,First Person Shooter
+596,Fallen Legion: Sins of an Empire,['PS4'],15.99,3.99,-75,FULL_GAME,YummyYummyTummy,2017-07-18,YummyYummyTummy,"Action-RPG, Role Playing"
+597,Dead Dungeon,['PS4'],3.99,0.79,-80,FULL_GAME,Drageus Games,2020-11-05,Roenko Games,Platformer
+598,Squareboy vs Bullies: Arena Edition,['PS4'],3.99,1.19,-70,FULL_GAME,Ratalaika Games,2017-12-06,Rohan Narang,Beat 'em up
+599,Capcom Beat 'Em Up Bundle,['PS4'],15.99,7.99,-50,FULL_GAME,Capcom Entertainment,2018-09-18,Capcom Entertainment,"Beat 'em up, Collection"
+600,Aeon Must Die!,['PS4'],15.99,7.99,-50,FULL_GAME,Focus Entertainment,2021-10-14,Limestone Games,Beat 'em up
+601,The Walking Vegetables: Radical Edition,['PS4'],9.99,1.99,-80,FULL_GAME,Merge Games,2019-02-27,Still Running,Shoot 'em up
+602,American Fugitive,['PS4'],17.99,3.59,-80,FULL_GAME,Curve Games,2019-05-21,Fallen Tree Games,"Open World, Action"
+603,Clan N,['PS4'],11.99,5.99,-50,FULL_GAME,Creamative,2020-08-06,Creamative,Beat 'em up
+604,Ninja Village,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-11-12,Kairosoft,Management
+605,M.A.C.E. Tower Defense,['PS4'],1.69,1.01,-40,FULL_GAME,EntwicklerX,2021-05-14,EntwicklerX,Tower Defence
+606,Get Packed: Fully Loaded,['PS4'],13.99,6.99,-50,FULL_GAME,Coatsink,2021-07-29,Moonshine Studios,Party
+607,Battlestar Galactica Deadlock,['PS4'],24.99,12.24,-51,FULL_GAME,Slitherine Software,2017-12-08,Black Lab Games,Strategy
+608,Firefighters: Airport Heroes,['PS4'],24.99,7.49,-70,FULL_GAME,United Independent Entertainment,2020-06-24,Fair Play Labs,Simulation
+609,AWAY: Journey to the Unexpected,['PS4'],13.99,3.49,-75,FULL_GAME,PLAYDIUS,2019-02-05,Aurelien Regard,Roguelite
+610,Bird Game +,['PS4'],3.99,0.79,-80,FULL_GAME,Ratalaika Games,2019-04-30,Bryan Tabor,Action
+611,Tennis World Tour,['PS4'],15.99,3.19,-80,FULL_GAME,Nacon,2018-05-22,Breakpoint,"Sports, Tennis"
+612,Access Denied,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2019-02-05,Stately Snail,Puzzle
+613,Touhou Genso Wanderer -Lotus Labyrinth R-,['PS4'],32.99,16.49,-50,FULL_GAME,Phoenixx,2021-09-30,AQUA STYLE,"Role Playing, Turn Based, Dungeon Crawler"
+614,This War of Mine: The Little Ones,['PS4'],15.99,2.39,-85,FULL_GAME,Deep Silver,2016-01-29,11 bit studios,"Survival, Management"
+615,Dark Sauce,['PS4'],3.69,2.58,-30,FULL_GAME,Victory Road,2020-11-06,Artalasky,Platformer
+616,Die Young,['PS4'],13.99,6.99,-50,FULL_GAME,IndieGala,2021-01-13,IndieGala,"Open World, Survival"
+617,Gun Club VR,['PS4'],19.99,4.99,-75,FULL_GAME,The Binary Mill,2018-12-18,The Binary Mill,First Person Shooter
+618,Ultratron,['PS4'],7.99,0.79,-90,GAME_BUNDLE,Curve Games,2015-05-12,Puppygames,Shoot 'em up
+619,Violett,['PS4'],7.99,0.79,-90,FULL_GAME,Forever Entertainment,2021-05-20,Forever Entertainment,"Adventure, Point & Click"
+621,39 Days to Mars,['PS4'],9.79,6.55,-33,FULL_GAME,It's Anecdotal,2019-10-29,It's Anecdotal,Puzzle
+622,Monster Harvest,"['PS4', 'PS5']",15.99,6.39,-60,FULL_GAME,Merge Games,2021-08-31,"Maple Powered Games, Stage Clear Studios","Role Playing, Turn Based"
+623,Knightin'+,['PS5'],4.99,1.49,-70,FULL_GAME,Ratalaika Games,2020-02-18,Muzt Die Studios,Action-Adventure
+624,Itadaki Smash,['PS4'],11.99,4.19,-65,FULL_GAME,Relevo Videogames,2021-05-21,Main Loop,Beat 'em up
+625,Q.U.B.E. 2,['PS4'],19.99,4.99,-75,FULL_GAME,Trapped Nerve Games,2018-03-13,Toxic Games,"Puzzle, Platformer"
+626,Brigandine: The Legend of Runersia,['PS4'],39.99,23.99,-40,FULL_GAME,"Happinet, Justdan International, Limited Run Games",2020-12-10,Matrix Software,"Role Playing, Strategy, Turn Based"
+627,Breathedge,['PS4'],19.99,9.99,-50,FULL_GAME,HypeTrain Digital,2021-04-06,RedRuins Softworks,"Survival, Sandbox"
+628,Shadowgate,['PS4'],15.99,7.99,-50,FULL_GAME,Abstraction Games,2019-04-11,Zojoi,"Adventure, Point & Click"
+629,MELTY BLOOD: TYPE LUMINA,['PS4'],44.99,29.24,-35,FULL_GAME,DELiGHTWORKS,2021-09-30,French-Bread,Fighting
+630,Fishing Sim World: Bass Pro Shops Edition,['PS4'],32.99,11.54,-65,FULL_GAME,Dovetail Games,2020-11-03,Dovetail Games,"Fishing, Sports"
+631,Aven Colony,['PS4'],24.99,4.99,-80,FULL_GAME,Team17 Software,2017-07-25,Mothership Entertainment,"Simulation, Strategy, Management"
+632,LOST SPHEAR,['PS4'],39.99,11.99,-70,FULL_GAME,Square Enix,2018-01-23,Tokyo RPG Factory,"Action-RPG, Role Playing"
+633,Whispering Willows,['PS4'],9.79,2.44,-75,FULL_GAME,LOOT Interactive,2015-06-30,Night Light Interactive,Adventure
+634,Ashen,['PS4'],32.99,9.89,-70,FULL_GAME,Annapurna Interactive,2019-12-09,Aurora44,"Action-RPG, Role Playing"
+635,"Cook, Serve, Delicious! 3?!",['PS4'],15.99,6.39,-60,FULL_GAME,Vertigo Gaming,2020-10-14,Vertigo Gaming,"Simulation, Management"
+636,Tinker Racers,['PS4'],3.99,1.19,-70,FULL_GAME,QUByte Interactive,2021-03-25,Rumbora Party Games,"Automobile, Arcade Racing"
+637,Demetrios - The BIG Cynical Adventure,['PS4'],7.99,1.59,-80,GAME_BUNDLE,COWCAT,2017-08-01,COWCAT,"Adventure, Point & Click"
+638,Ghost Sweeper,['PS4'],3.99,2.39,-40,FULL_GAME,7 Raven Studios,2021-11-05,7 Raven Studios,Platformer
+639,InkSplosion,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2018-05-08,Petite Games,Shoot 'em up
+640,Alwa's Awakening,['PS4'],7.99,6.39,-20,FULL_GAME,Elden Pixels,2019-03-21,Elden Pixels,"Metroidvania, Platformer"
+641,My Universe - Interior Designer,['PS4'],32.99,19.79,-40,FULL_GAME,Microids,2021-11-11,It Matters Games,Management
+642,Worbital,['PS4'],9.99,3.39,-66,FULL_GAME,Team Jolly Roger,2019-10-18,Team Jolly Roger,Management
+643,Bloodstained: Ritual of the Night,['PS4'],34.99,13.99,-60,FULL_GAME,505 Games,2019-06-18,ArtPlay,"Metroidvania, Platformer"
+644,Hex Tunnel,['PS4'],3.99,0.79,-80,FULL_GAME,Owlgorithm,2018-02-27,Owlgorithm,Action
+645,Buildings Have Feelings Too!,['PS4'],15.99,3.99,-75,FULL_GAME,Merge Games,2021-04-22,Blackstaff Games,Management
+646,Paper Dolls Original,['PS4'],13.99,6.99,-50,FULL_GAME,Winking Entertainment,2019-06-26,Winking Entertainment,Adventure
+647,Q-YO Blaster,['PS4'],7.99,0.79,-90,FULL_GAME,Forever Entertainment,2021-09-03,"Team Robot Black Hat, Forever Entertainment",Shoot 'em up
+648,Telling Lies,['PS4'],15.99,4.79,-70,FULL_GAME,Annapurna Interactive,2020-04-28,Sam Barlow,Visual Novel
+649,Runner3,['PS4'],12.99,6.49,-50,FULL_GAME,"Choice Provisions, Nicalis",2018-11-14,Choice Provisions,Platformer
+650,ACT IT OUT! A Game of Charades,['PS4'],5.79,1.73,-70,FULL_GAME,Snap Finger Click,2016-01-12,Snap Finger Click,Party
+651,Donut County,['PS4'],9.99,2.99,-70,FULL_GAME,"Annapurna Interactive, iam8bit",2018-08-28,Ben Esposito,Puzzle
+652,Party Pumper,['PS4'],15.99,6.39,-60,FULL_GAME,Fibrum,2020-06-25,Fibrum,Simulation
+653,Pixel Devil and the Broken Cartridge,['PS4'],3.99,2.79,-30,FULL_GAME,Victory Road,2020-01-09,Level Evil,Platformer
+654,The Skylia Prophecy,['PS4'],5.79,3.47,-40,FULL_GAME,7 Raven Studios,2021-04-23,"7 Raven Studios, Ezekiel Rage","Action-RPG, Role Playing, Platformer"
+655,MY HERO ONE'S JUSTICE 2,['PS4'],49.99,13.99,-72,FULL_GAME,Bandai Namco Entertainment,2020-03-13,BYKING Studios,Fighting
+656,Life of Fly,['PS4'],11.49,6.89,-40,FULL_GAME,EpiXR Games,2021-03-05,EpiXR Games,Adventure
+657,Pocket League Story,['PS4'],9.99,4.99,-50,FULL_GAME,Kairosoft,2020-10-22,Kairosoft,"Simulation, Sports, Football, Management"
+658,Mom Hid My Game!,['PS4'],3.99,2.79,-30,FULL_GAME,KEMCO,2020-08-12,Hap,Puzzle
+659,FIA European Truck Racing Championship,['PS4'],24.99,7.49,-70,FULL_GAME,Nacon,2019-07-18,N-Racing,Simulation Racing
+660,Warhammer Quest,['PS4'],32.99,16.49,-50,FULL_GAME,Chilled Mouse,2017-02-21,Rodeo Games,"Strategy, Turn Based"
+661,Vampyr,['PS4'],34.99,8.74,-75,FULL_GAME,Focus Entertainment,2018-06-05,Dontnod Entertainment,"Action-RPG, Role Playing"
+662,Dogfight,['PS4'],7.99,1.99,-75,FULL_GAME,Sabec,2020-12-23,Sabec,"Aerial, Vehicular Combat"
+663,My Universe - Fashion Boutique,['PS4'],34.99,10.49,-70,FULL_GAME,Microids,2020-10-27,Black Sheep,Simulation
+664,Danger Scavenger,['PS4'],7.99,0.79,-90,FULL_GAME,Forever Entertainment,2021-10-29,"Star Drifters, Forever Entertainment","Roguelite, Shoot 'em up"
+665,BORIS THE ROCKET,['PS4'],9.99,4.99,-50,FULL_GAME,Big Way Games,2021-04-30,toR Studio,Simulation
+666,Autumn's Journey,['PS4'],3.99,1.19,-70,FULL_GAME,Ratalaika Games,2020-12-08,Apple Cider,Visual Novel
+667,Monster Boy and the Cursed Kingdom,"['PS4', 'PS5']",34.99,11.54,-67,FULL_GAME,FDG Entertainment,2018-12-04,Game Atelier,"Metroidvania, Platformer"
+668,Inferno 2,['PS4'],3.99,1.99,-50,FULL_GAME,2Awesome Studio,2019-09-19,Radiangames,Shoot 'em up
+669,Let's Sing 2021,['PS4'],34.99,19.24,-45,FULL_GAME,Ravenscourt,2020-11-13,Voxler,Music
+670,Dragon's Dogma: Dark Arisen,['PS4'],19.99,3.99,-80,FULL_GAME,Capcom Entertainment,2017-10-03,Capcom Entertainment,"Open World, Action-RPG, Role Playing"
+671,Super Mega Baseball 3,['PS4'],32.99,13.19,-60,FULL_GAME,Metalhead Software,2020-05-13,Metalhead Software,"Sports, Baseball"
+672,One More Dungeon,['PS4'],6.49,0.97,-85,FULL_GAME,Ratalaika Games,2017-12-12,Stately Snail,"Roguelite, Dungeon Crawler"
+673,Akiba's Beat,['PS4'],15.99,4.79,-70,FULL_GAME,XSEED Games,2017-05-16,ACQUIRE,"Action-RPG, Role Playing"
+674,Necrosphere Deluxe,['PS4'],6.49,3.24,-50,FULL_GAME,UNTIES,2019-01-31,Cat Nigiri,Platformer
+676,One Night Stand,['PS4'],3.99,1.99,-50,FULL_GAME,Ratalaika Games,2019-10-01,Kinmoku,Visual Novel
+677,Remothered: Broken Porcelain,['PS4'],24.99,4.99,-80,FULL_GAME,"Modus Games, Ripples Asia Venture",2020-10-13,Stormind Games,"Stealth, Survival Horror"
+678,Rusty Gun,['PS4'],3.69,2.58,-30,FULL_GAME,Victory Road,2020-08-14,HugePixel,Run & Gun
+679,Rez Infinite,['PS4'],24.99,12.49,-50,FULL_GAME,"Enhance, iam8bit",2016-10-13,Enhance,"On Rails, Shoot 'em up"
+680,Songbird Symphony,['PS4'],12.99,2.59,-80,FULL_GAME,PQube,2019-07-25,Joysteak,Platformer
+681,ARK Park,['PS4'],44.99,8.99,-80,FULL_GAME,Snail Games,2018-03-22,Snail Games,Simulation
+682,THE CASINO COLLECTION,['PS4'],7.99,3.99,-50,FULL_GAME,D3Publisher,2021-06-03,Office 5656,Casino
+683,Firefighters: Airport Fire Department,['PS4'],19.99,5.99,-70,FULL_GAME,United Independent Entertainment,2017-09-28,VIS Games,Simulation
+686,Deus Ex: Mankind Divided,['PS4'],24.99,3.74,-85,FULL_GAME,Square Enix,2016-08-23,Eidos Montreal,"Action-RPG, First Person Shooter, Role Playing, Stealth"
+687,Arcade Spirits,['PS4'],15.99,5.59,-65,FULL_GAME,PQube,2020-05-01,Fiction Factory Games,Visual Novel
+688,Caves and Castles: Underworld,['PS4'],5.79,2.89,-50,FULL_GAME,ChiliDog Interactive,2021-01-29,"Alawar Entertainment, Amegami","Puzzle, Adventure"
+689,Sparklite,['PS4'],19.99,4.99,-75,FULL_GAME,Merge Games,2019-11-14,Red Blue Games,"Roguelite, Action-Adventure"
+690,Yesterday Origins,['PS4'],19.99,1.99,-90,FULL_GAME,Anuman Interactive,2016-11-17,Pendulo Studios,"Adventure, Point & Click"
+691,Sunless Sea: Zubmariner Edition,['PS4'],13.99,8.39,-40,FULL_GAME,Failbetter Games,2018-08-28,Failbetter Games,"Roguelite, Role Playing, Management"
+692,Saboteur II: Avenging Angel,['PS4'],3.69,2.95,-20,FULL_GAME,SimFabric,2020-02-14,Clive Townsend,Action-Adventure
+693,Rain World,['PS4'],12.99,7.14,-45,FULL_GAME,Adult Swim Games,2017-03-28,Videocult,Platformer
+694,Bubsy: Paws on Fire!,['PS4'],19.99,3.99,-80,FULL_GAME,UFO Interactive,2019-05-16,Choice Provisions,Platformer
+695,Overcooked! 2,['PS4'],19.99,4.99,-75,FULL_GAME,Team17 Software,2018-08-07,Ghost Town Games,Party
+696,Earth Marines,['PS4'],3.99,2.79,-30,FULL_GAME,ChiliDog Interactive,2021-09-17,"HugePixel, Diedemor Studio",Shoot 'em up
+697,Contagion VR: Outbreak,['PS4'],11.99,5.99,-50,FULL_GAME,Monochrome,2019-11-12,Monochrome,First Person Shooter
+698,Old Man's Journey,['PS4'],7.99,1.99,-75,FULL_GAME,Broken Rules,2018-05-29,Broken Rules,"Puzzle, Adventure, Point & Click"
+699,Nova-111,['PS4'],7.99,0.79,-90,GAME_BUNDLE,Curve Games,2015-08-25,Funktronic Labs,Puzzle
+700,The Mage's Tale,['PS4'],24.99,4.99,-80,FULL_GAME,inXile Entertainment,2019-02-04,inXile Entertainment,Action-Adventure
+702,Alchemist Adventure,['PS4'],15.99,8.79,-45,FULL_GAME,Super.com,2021-05-20,Bad Minions,Action-Adventure
+703,Tank Mechanic Simulator,['PS4'],15.99,7.99,-50,FULL_GAME,PlayWay,2021-05-19,"DeGenerals, Console Labs",Simulation
+704,Voice of Cards: The Isle Dragon Roars,['PS4'],24.99,17.49,-30,FULL_GAME,Square Enix,2021-10-28,Square Enix,"Role Playing, Turn Based, Card & Board"
+706,BDSM: Big Drunk Satanic Massacre,['PS4'],15.99,6.39,-60,FULL_GAME,Big Way Games,2019-10-10,Big Way Games,Shoot 'em up
+707,Gravity Duck,['PS4'],3.99,0.79,-80,GAME_BUNDLE,Ratalaika Games,2019-08-13,Woblyware,Platformer
+708,The Childs Sight,['PS4'],3.99,0.39,-90,FULL_GAME,Forever Entertainment,2021-02-26,Forever Entertainment,Adventure
+709,Shining Resonance Refrain,['PS4'],24.99,6.24,-75,FULL_GAME,SEGA,2018-07-10,SEGA,"Action-RPG, Role Playing"
+710,Creature in the Well,['PS4'],9.99,6.99,-30,FULL_GAME,"Flight School Studio, iam8bit, Hybrid Squad",2020-03-27,Flight School Studio,Action-Adventure
+193,Gunvolt Chronicles: Luminous Avenger iX,['PS4'],11.99,,-100,FULL_GAME,Inti CREATES,2019-09-26,Inti CREATES,Platformer
